@@ -1,0 +1,60 @@
+name: Daily Menu Scrape
+
+on:
+  schedule:
+    # 9:00 AM CST = 15:00 UTC
+    - cron: '0 15 * * *'
+    # 1:00 PM CST = 19:00 UTC
+    - cron: '0 19 * * *'
+    # 4:30 PM CST = 22:30 UTC
+    - cron: '30 22 * * *'
+
+    # targets ~7:00 AM CST (sched 5:00 AM CST = 11:00 UTC, ~2hr delay)
+    - cron: '0 11 * * *'
+    # targets ~8:00 PM CST (sched 6:30 PM CST = 00:30 UTC, ~1.5hr delay)
+    - cron: '30 0 * * *'
+  workflow_dispatch:   # click "Run workflow" in GitHub any time
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Enrich new strains
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python enrich_strains.py
+
+      - name: Build static HTML from scraped data
+        run: python build_preview.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "Legit Buddy Bot"
+          git config user.email "actions@github.com"
+          git add docs/products.json docs/index.html docs/strains_enriched.json
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "🌿 Menu update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push origin HEAD

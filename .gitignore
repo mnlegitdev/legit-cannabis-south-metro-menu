@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+scrape.log
+.env
+preview.html
+docs/debug_api.json
