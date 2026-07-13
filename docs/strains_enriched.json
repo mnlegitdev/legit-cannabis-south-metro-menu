@@ -1681,5 +1681,56 @@
       "just_happy": 4,
       "aphrodisiac": 3
     }
+  },
+  "6bba413e0823": {
+    "lineage": "Fro'Do x Alaskan Yeti, then crossed with Lil Miss Sunshine (LilMissHS) — Fro'Do is a cross of Frosty D (an indica-leaning hybrid) with strong resin production genetics; Alaskan Yeti is a sativa-dominant strain known for energetic and cerebral effects; Lil Miss Sunshine contributes uplifting, citrus-forward sativa influence. Bred and produced by Northpark Cannabis.",
+    "therapeutic": "Stress relief, mood elevation, mild depression, fatigue, lack of focus, mild anxiety, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, possible dizziness for low-tolerance users, may cause restlessness in sensitive sativa consumers",
+    "aroma": "A bright and resinous opening of sweet tropical fruit and zesty lemon citrus gives way to a grounding undercurrent of earthy pine and a subtle peppery spice that lingers on the exhale. The overall bouquet is fresh, lively, and inviting with a slight herbal complexity tied together by the myrcene backbone.",
+    "misc": "Produced by Northpark, this sativa-leaning hybrid sits at a moderate 17.1% THC, making it approachable for intermediate consumers while still delivering noticeable euphoric and focusing effects. The buds typically display a frosty, trichome-rich appearance consistent with the Yeti lineage, with medium-green coloring and amber pistils. Best consumed during daytime or early afternoon when focus and uplifting energy are desired — well-suited for creative tasks, social settings, or outdoor activities.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "anxiety_relief": 3,
+      "lift_up": 6,
+      "get_creative": 2,
+      "get_social": 5,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 3
+    }
+  },
+  "a62c1cb48f44": {
+    "lineage": "Cotton Candy x Gravenstein OG (Northpark)",
+    "therapeutic": "Stress relief, mild anxiety, depression, fatigue, creative blocks, mild pain",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, potential drowsiness as effects progress",
+    "aroma": "A complex bouquet opens with pungent diesel fuel undertones layered over ripe stone fruit and berries, giving way to a surprisingly delicate floral rose note on the exhale. The sweetness lingers in a candy-like finish reminiscent of its Cotton Candy parentage.",
+    "misc": "PR Fog Dog is a Northpark house blend crossing the sugary, euphoric Cotton Candy strain with the earthy, OG-forward Gravenstein OG, yielding a balanced indica-leaning hybrid that sits at a modest 17.2% THC — accessible for intermediate consumers without overwhelming novices. Buds typically present with a dense, frosty structure, forest green calos dusted in trichomes with amber pistils reflecting the indica heritage. Best enjoyed in the early evening when creative pursuits are still on the agenda but relaxation is the ultimate destination, making it ideal for artists, musicians, or winding down after a demanding day.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 2,
+      "get_social": 5,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "8a1828b347ce": {
+    "lineage": "True OG x Strawberry Banana x Blackberry — True OG is an OG Kush phenotype (Elemental Seeds), Strawberry Banana is a cross of Crockett's Banana Kush x Strawberry Bubblegum (DNA Genetics / Crockett Family Farms), and Blackberry likely refers to Blackberry Kush or Blackberry by Nirvana Seeds, contributing deep berry and floral notes to the hybrid blend",
+    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, creative block, mild pain and tension, fatigue, depression",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or anxiety in sensitive users at higher doses, may cause drowsiness in some users despite hybrid classification — pace consumption especially if tolerance is low",
+    "aroma": "A vibrant burst of ripe mixed berries and sun-warmed citrus greets the nose first, followed by a subtle earthy, piney undertone from the myrcene and pinene interplay that grounds the sweetness and keeps it from feeling cloying.",
+    "misc": "Produced by Northpark as a pre-roll, this hybrid sits at a moderate 14.1% THC, making it approachable for newer consumers while still satisfying for casual users. The terpene profile — led by myrcene for body ease, pinene for mental clarity, limonene for mood lift, and caryophyllene for light stress relief — supports its balanced, functional hybrid effects. Best suited for afternoon or early evening use when creativity and relaxation are both desired without full sedation.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 7,
+      "get_social": 5,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
