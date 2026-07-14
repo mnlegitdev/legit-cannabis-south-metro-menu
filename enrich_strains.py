@@ -68,6 +68,7 @@ Lineage: {lineage}
 
 Mood scoring keys (terpenes listed are the ONLY relevant ones):
 - wind_down: Myrcene (#1 driver), Linalool, Caryophyllene. No Myrcene/Linalool → max 4.
+- deep_sleep: Myrcene MUST be #1 terpene (if not → max 5). Linalool MUST be present (if absent → max 4). Both dominant → can reach 9-10. Stricter than wind_down — for strains that genuinely knock you out.
 - anxiety_relief: Linalool (#1), Caryophyllene (#2), Limonene. No Linalool → max 5.
 - lift_up: Limonene (#1), Terpinolene, Ocimene, Valencene. No Limonene/Terpinolene → max 4.
 - get_creative: Pinene (#1, alpha or beta), Terpinolene. No Pinene → max 5.
@@ -77,10 +78,10 @@ Mood scoring keys (terpenes listed are the ONLY relevant ones):
 - aphrodisiac: Limonene (#1), Linalool (#2), Geraniol, Caryophyllene, Terpinolene. Needs 2+ → 7+.
 
 Example calibration for a strain with Myrcene dominant, Caryophyllene secondary, trace Limonene:
-wind_down:8, anxiety_relief:5, lift_up:3, get_creative:1, get_social:2, pain_body:6, just_happy:4, aphrodisiac:3
+wind_down:8, deep_sleep:5, anxiety_relief:5, lift_up:3, get_creative:1, get_social:2, pain_body:6, just_happy:4, aphrodisiac:3
 
 Respond with ONLY valid JSON (no markdown, no explanation):
-{{"wind_down":0,"anxiety_relief":0,"lift_up":0,"get_creative":0,"get_social":0,"pain_body":0,"just_happy":0,"aphrodisiac":0}}"""
+{{"wind_down":0,"deep_sleep":0,"anxiety_relief":0,"lift_up":0,"get_creative":0,"get_social":0,"pain_body":0,"just_happy":0,"aphrodisiac":0}}"""
 
 
 def _parse_json(text: str) -> dict:

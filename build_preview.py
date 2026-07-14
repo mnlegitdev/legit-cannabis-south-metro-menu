@@ -506,6 +506,7 @@ def build():
       <span class="mood-bar-label">Find your vibe</span>
       <div class="mood-chips" id="moodChips">
         <button class="mood-chip" data-mood="wind-down"      onclick="filterMood(this)" title="Myrcene + Linalool — muscle relaxation, sedation, GABAergic calm (Russo 2011)">😴 Wind Down</button>
+        <button class="mood-chip" data-mood="deep-sleep"     onclick="filterMood(this)" title="Myrcene dominant + Linalool — GABA-A sedation + sleep latency reduction. Stricter than Wind Down: both must be top terpenes.">🌙 Deep Sleep</button>
         <button class="mood-chip" data-mood="anxiety-relief" onclick="filterMood(this)" title="Caryophyllene + Linalool + Limonene — the Kamal anxiolytic chemotype (Kamal et al. 2018, Front Neurosci)">🧘 Anxiety Relief</button>
         <button class="mood-chip" data-mood="lift-up"        onclick="filterMood(this)" title="Limonene + Terpinolene + Ocimene — mood elevation, citrus-forward uplift">⬆ Lift Up</button>
         <button class="mood-chip" data-mood="get-creative"   onclick="filterMood(this)" title="Pinene + Terpinolene — AChE inhibition sharpens focus; terpinolene drives cerebral creativity">🎨 Get Creative</button>
@@ -612,6 +613,12 @@ const MOOD_MAP = {{
     science: 'Myrcene + Linalool stack — sedation, muscle relaxation, GABAergic calm',
     effects:  ['Sleepy','Relaxing','Calming','Chill','Body High','Unbothered'],
     terpenes: ['Myrcene','Linalool']
+  }},
+  'deep-sleep': {{
+    label: 'Deep Sleep',
+    science: 'Myrcene (GABA-A sedation) + Linalool (sleep latency reduction via adenosine) — both must be dominant terpenes for true knock-out sedation',
+    effects:  ['Sleepy','Body High','Relaxing','Calming'],
+    terpenes: ['Myrcene','Linalool','Caryophyllene']
   }},
   'anxiety-relief': {{
     label: 'Anxiety Relief',
@@ -958,6 +965,9 @@ document.addEventListener('keydown', e => {{ if (e.key === 'Escape') {{ closeMod
 const MOOD_INFO = [
   {{ key:'wind-down',      icon:'😴', name:'Wind Down',
      science:'Myrcene binds GABA-A receptors causing sedation and muscle relaxation (Russo 2011). Linalool elevates adenosine and suppresses glutamate excitability. Together they create the classic "couch-lock" body stone ideal for sleep or unwinding.',
+     terps:['Myrcene','Linalool','Caryophyllene'] }},
+  {{ key:'deep-sleep',     icon:'🌙', name:'Deep Sleep',
+     science:'A stricter version of Wind Down — both Myrcene AND Linalool must be dominant terpenes. Myrcene directly activates GABA-A receptors causing heavy sedation and muscle lock. Linalool specifically reduces sleep latency (the time it takes to fall asleep) by elevating adenosine. When both are top terpenes, the result is a knock-out sedation distinct from just relaxing. Caryophyllene adds body comfort via CB2, removing pain as a sleep barrier.',
      terps:['Myrcene','Linalool','Caryophyllene'] }},
   {{ key:'anxiety-relief', icon:'🧘', name:'Anxiety Relief',
      science:'Linalool raises GABA and lowers cortisol — the same mechanism as benzodiazepines but milder. Caryophyllene selectively activates CB2 (not CB1) reducing neuroinflammation. Limonene targets 5-HT1A serotonin receptors. Together this is the Kamal 2018 anxiolytic chemotype.',
