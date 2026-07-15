@@ -51,6 +51,9 @@ Toggle with the **🌙 Dark** button in the header. Preference is saved across v
 ### Staff Guide
 Tap **📖 Staff Guide** in the header for an in-page reference on how the menu, search, and mood scoring work.
 
+### Terpenes & Cannabinoids 101
+Tap **🧪 Terpenes & Cannabinoids 101** in the header for a quick-reference guide covering the 8 terpenes used for mood filtering (smell + effects) and the major cannabinoids, for staff who want to explain "why" a product is recommended without needing to look anything up.
+
 ---
 
 ## How Strain Profiles Are Generated
