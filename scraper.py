@@ -520,12 +520,6 @@ def try_playwright() -> list[dict]:
 
             new_responses = pending[before:]
             cat_products = 0
-            if cat_name == "pre-roll" and new_responses:
-                items = (new_responses[0] or {}).get("list") or []
-                if items:
-                    dbg_path = DATA_FILE.parent / "debug_one_raw_product.json"
-                    with open(dbg_path, "w") as f:
-                        json.dump(items[0], f, indent=2)
             for data in new_responses:
                 found = _parse_sweed_response(data, force_category=cat_name)
                 for p in found:

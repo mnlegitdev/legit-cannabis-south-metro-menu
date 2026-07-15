@@ -42,15 +42,6 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
-      - name: TEMP - upload debug API structure
-        uses: actions/upload-artifact@v4
-        with:
-          name: debug-api
-          path: |
-            docs/debug_api.json
-            docs/debug_one_raw_product.json
-          retention-days: 1
-
       - name: Enrich new strains
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
