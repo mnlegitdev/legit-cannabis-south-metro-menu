@@ -1744,42 +1744,6 @@
       "first_seen": "2026-06-10T15:24:55.195638-06:00",
       "last_seen": "2026-06-25T11:15:19.273927-06:00"
     },
-    "643a5fc06fa2": {
-      "name": "PR Medusa 2pk",
-      "brand": "dizgo",
-      "category": "pre-roll",
-      "strain_type": "Hybrid",
-      "thc": "12.6%",
-      "cbd": "0.1%",
-      "cbg": "",
-      "cbn": "",
-      "terpenes": [
-        "Myrcene",
-        "Caryophyllene",
-        "Ocimene",
-        "Farnesene"
-      ],
-      "effects": [
-        "Euphoric",
-        "Relaxing",
-        "Happy"
-      ],
-      "flavors": [
-        "Berry",
-        "Sweet",
-        "Tea"
-      ],
-      "weight": "0.5g",
-      "price": "$16.00",
-      "price_tiers": {
-        "0_5g": "$16.00"
-      },
-      "in_stock": false,
-      "image": "https://media-prime.sweedpos.com/store/prime/1780943941_12810ac6-d471-4ee1-87a9-fcf40ff92c78.png",
-      "description": "Medusa, more commonly referred to as \u201cThe Nirvana Strain,\u201d is a hybrid of the cult favorite Misty strain with an unknown sativa to indica ratio. However, it is thought to be evenly balanced due to its powerful combination of sativa and indica effects that complement each other perfectly.",
-      "first_seen": "2026-06-10T15:24:55.195638-06:00",
-      "last_seen": "2026-07-14T12:49:53.772461-06:00"
-    },
     "bc4c058f8526": {
       "name": "PR Fight Club",
       "brand": "Campfire Cannabis",
@@ -2005,47 +1969,6 @@
       "first_seen": "2026-06-17T11:49:17.723106-06:00",
       "last_seen": "2026-06-19T14:25:38.952322-06:00"
     },
-    "f3e6b0175974": {
-      "name": "PR Glue 31 - 1gr",
-      "brand": "Grasslandz",
-      "category": "pre-roll",
-      "strain_type": "Hybrid",
-      "thc": "22.3%",
-      "cbd": "0.1%",
-      "cbg": "",
-      "cbn": "",
-      "terpenes": [
-        "Linalool",
-        "Caryophyllene",
-        "Terpinolene",
-        "Geraniol",
-        "Valencene",
-        "Bisabolol"
-      ],
-      "effects": [
-        "Euphoric",
-        "Relaxing",
-        "Cerebral"
-      ],
-      "flavors": [
-        "Fruity",
-        "Diesel",
-        "Earthy",
-        "Gasoline",
-        "Sweet",
-        "Nutty"
-      ],
-      "weight": "1 G",
-      "price": "$18.00",
-      "price_tiers": {
-        "gram": "$18.00"
-      },
-      "in_stock": false,
-      "image": "https://media-prime.sweedpos.com/store/prime/1776206164_512e1557-5093-470c-8843-89df37bf4a54.png",
-      "description": "GG4 \u00d7 Jokerz #31",
-      "first_seen": "2026-06-19T14:25:38.952322-06:00",
-      "last_seen": "2026-07-14T12:49:53.772461-06:00"
-    },
     "d57b1883b7b7": {
       "name": "PR Cherry Purgatory - Keif Coated",
       "brand": "Lakeside Canna",
@@ -2128,50 +2051,6 @@
       "description": "10 MG per serving and 100mg per bar.",
       "first_seen": "2026-06-19T14:25:38.952322-06:00",
       "last_seen": "2026-06-25T17:53:01.746334-06:00"
-    },
-    "b61e85652136": {
-      "name": "PR Blueberry Muffin Mini Pre-rolls",
-      "brand": "Lifted North",
-      "category": "pre-roll",
-      "strain_type": "Hybrid (Indica)",
-      "thc": "20.5%",
-      "cbd": "",
-      "cbg": "",
-      "cbn": "",
-      "terpenes": [
-        "Myrcene",
-        "Linalool",
-        "Pinene",
-        "Limonene",
-        "Caryophyllene",
-        "Humulene",
-        "Bisabolol"
-      ],
-      "effects": [
-        "Body High",
-        "Focused",
-        "Relaxing",
-        "Tingly",
-        "Happy"
-      ],
-      "flavors": [
-        "Blueberry",
-        "Herbal",
-        "Sweet",
-        "Vanilla",
-        "Butter",
-        "Nutty"
-      ],
-      "weight": "5PK of 0.5g pre-rolls",
-      "price": "$38.00",
-      "price_tiers": {
-        "5pk_of_0_5g_pre-rolls": "$38.00"
-      },
-      "in_stock": false,
-      "image": "https://media-prime.sweedpos.com/store/prime/1777923983_e9646ae8-6186-4f0f-aa6f-ecd2df9b9772.avif",
-      "description": "Blueberry x Purple Panty Dropper.",
-      "first_seen": "2026-06-25T17:53:01.746334-06:00",
-      "last_seen": "2026-07-14T12:49:53.772461-06:00"
     },
     "4df4f8a73ed8": {
       "name": "PR Orion 2 pk",
@@ -2523,45 +2402,6 @@
       "first_seen": "2026-06-30T14:57:49.085377-06:00",
       "last_seen": "2026-07-02T10:54:32.209563-06:00"
     },
-    "8003f2b26a89": {
-      "name": "PR Bumper OG",
-      "brand": "Northpark",
-      "category": "pre-roll",
-      "strain_type": "Hybrid (Indica)",
-      "thc": "14.2%",
-      "cbd": "0.1%",
-      "cbg": "",
-      "cbn": "",
-      "terpenes": [
-        "Myrcene",
-        "Limonene",
-        "Caryophyllene"
-      ],
-      "effects": [
-        "Body High",
-        "Euphoric",
-        "Relaxing",
-        "Cerebral",
-        "Uplifting"
-      ],
-      "flavors": [
-        "Tart",
-        "Berry",
-        "Diesel",
-        "Sweet",
-        "Tropical"
-      ],
-      "weight": "1 G 3-PACK",
-      "price": "$38.00",
-      "price_tiers": {
-        "1_g_3-pack": "$38.00"
-      },
-      "in_stock": false,
-      "image": "https://media-prime.sweedpos.com/store/prime/1782752305_6b7a2945-cfe7-4665-a180-9aefe4629cce.jpg",
-      "description": "(Amnesia S1 x Black Lime GMO) blended with a (Cherry Kush x [Lemon Tree/Papaya x GMO])",
-      "first_seen": "2026-06-30T17:44:57.355726-06:00",
-      "last_seen": "2026-07-14T12:49:53.772461-06:00"
-    },
     "46c01c7585d2": {
       "name": "Blue Raspberry",
       "brand": "Voyageur",
@@ -2584,115 +2424,6 @@
       "description": "10mg THC per Gummy - 10 Gummies per pack. 100mg total.",
       "first_seen": "2026-07-09T14:47:41.236162-06:00",
       "last_seen": "2026-07-12T08:43:30.179219-06:00"
-    },
-    "6bba413e0823": {
-      "name": "PR Frodo Squeeze",
-      "brand": "Northpark",
-      "category": "pre-roll",
-      "strain_type": "Hybrid (Sativa)",
-      "thc": "17.1%",
-      "cbd": "0.3%",
-      "cbg": "",
-      "cbn": "",
-      "terpenes": [
-        "Myrcene",
-        "Limonene",
-        "Terpinene"
-      ],
-      "effects": [
-        "Body High",
-        "Focused",
-        "Euphoric",
-        "Uplifting"
-      ],
-      "flavors": [
-        "Fruity",
-        "Pine",
-        "Spice"
-      ],
-      "weight": "1 G 3-PACK",
-      "price": "$38.00",
-      "price_tiers": {
-        "1_g_3-pack": "$38.00"
-      },
-      "in_stock": false,
-      "image": "https://media-prime.sweedpos.com/store/prime/1783955986_ccce54d3-283a-44dd-aaa4-13fc446002a9.jpg",
-      "description": "(Fro\u2019Do x Alaskan Yeti) x LilMissHS",
-      "first_seen": "2026-07-13T12:13:31.912297-06:00",
-      "last_seen": "2026-07-14T12:49:53.772461-06:00"
-    },
-    "a62c1cb48f44": {
-      "name": "PR Fog Dog",
-      "brand": "Northpark",
-      "category": "pre-roll",
-      "strain_type": "Hybrid (Indica)",
-      "thc": "17.2%",
-      "cbd": "0.4%",
-      "cbg": "",
-      "cbn": "",
-      "terpenes": [
-        "Myrcene",
-        "Limonene",
-        "Caryophyllene"
-      ],
-      "effects": [
-        "Relaxing",
-        "Creative",
-        "Happy"
-      ],
-      "flavors": [
-        "Diesel",
-        "Fruity",
-        "Rose",
-        "Sweet"
-      ],
-      "weight": "1 G 3-PACK",
-      "price": "$38.00",
-      "price_tiers": {
-        "1_g_3-pack": "$38.00"
-      },
-      "in_stock": false,
-      "image": "https://media-prime.sweedpos.com/store/prime/1783956226_046dca75-74f9-4dea-adfd-b3792619d72a.png",
-      "description": "Cotton Candy X Gravenstein OG strains",
-      "first_seen": "2026-07-13T12:13:31.912297-06:00",
-      "last_seen": "2026-07-14T12:49:53.772461-06:00"
-    },
-    "8a1828b347ce": {
-      "name": "PR Gummi Bears",
-      "brand": "Northpark",
-      "category": "pre-roll",
-      "strain_type": "Hybrid",
-      "thc": "14.1%",
-      "cbd": "0.2%",
-      "cbg": "",
-      "cbn": "",
-      "terpenes": [
-        "Myrcene",
-        "Pinene",
-        "Limonene",
-        "Caryophyllene"
-      ],
-      "effects": [
-        "Relaxing",
-        "Creative",
-        "Uplifting",
-        "Happy"
-      ],
-      "flavors": [
-        "Berry",
-        "Citrus",
-        "Sweet"
-      ],
-      "weight": "1 G 3-PACK",
-      "price": "$38.00",
-      "price_tiers": {
-        "1_g_3-pack": "$38.00"
-      },
-      "in_stock": false,
-      "image": "https://media-prime.sweedpos.com/store/prime/1783956373_d24de882-7886-4813-b6f2-8cd35109af96.png",
-      "description": "True OG, Strawberry Banana, and Blackberry",
-      "first_seen": "2026-07-13T12:13:31.912297-06:00",
-      "last_seen": "2026-07-14T12:49:53.772461-06:00"
     },
     "sw242336": {
       "sweed_id": 242336,
