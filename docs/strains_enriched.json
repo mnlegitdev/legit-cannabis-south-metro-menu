@@ -233,24 +233,6 @@
       "deep_sleep": 2
     }
   },
-  "d6623d889658": {
-    "lineage": "Grape Pie x Wedding Crasher x Ice Cream Cake (Bloom Seed Co.)",
-    "therapeutic": "Chronic pain, insomnia, stress relief, anxiety reduction",
-    "negative": "Couch-lock at high doses, dry mouth, dry eyes",
-    "aroma": "Sweet grape soda, ripe berry, whipped vanilla cream, doughy sweetness with faint gasoline on exhale",
-    "misc": "Bred by Harry Palms (Bloom Seed Co.), former head breeder at Oni Seed Co. THC typically 20–29%. Dense resinous buds with purple hues and heavy trichome coverage. Award-adjacent — recognized as a modern dessert strain classic. Strong indica-dominant effects best suited to evening use.",
-    "mood_ratings": {
-      "wind_down": 9,
-      "anxiety_relief": 7,
-      "lift_up": 2,
-      "get_creative": 2,
-      "get_social": 2,
-      "pain_body": 5,
-      "just_happy": 5,
-      "aphrodisiac": 4,
-      "deep_sleep": 8
-    }
-  },
   "32de19b6f29e": {
     "lineage": "Do-Si-Dos x Purple Punch (In House Genetics)",
     "therapeutic": "Insomnia, chronic pain, stress, appetite stimulation, nausea",
@@ -1277,24 +1259,6 @@
       "deep_sleep": 4
     }
   },
-  "4ae59f844af9": {
-    "lineage": "Tahoe OG x Runtz (Campfire Cannabis / breeder unconfirmed; Runtz itself is Zkittlez x Gelato by Cookies Fam)",
-    "therapeutic": "Stress relief, anxiety reduction, mild to moderate chronic pain, muscle tension, insomnia onset, mood elevation, appetite stimulation",
-    "negative": "Dry mouth, dry eyes, potential dizziness or paranoia at high doses due to elevated THC (24.3%), possible couch-lock with heavy consumption, not recommended for low-tolerance users before physical activity",
-    "aroma": "Rich, dank earth anchored by classic kush and woody pine opens the nose, quickly layered with bright bursts of sweet citrus and tropical fruit that give it a creamy, almost dessert-like complexity. A subtle floral spice from linalool and a faint herbal whisper from humulene and ocimene round out the finish.",
-    "misc": "Lit OG blends the legendary potency and deep body sedation of Tahoe OG with the sweet, creamy fruit profile and euphoric lift of Runtz, resulting in an indica-dominant hybrid that punches well above average at 24.3% THC. Oversized olive-green nugs with purple accents, dense orange pistils, and a thick trichome frost make this a visually striking flower. Best consumed in the evening or late afternoon for winding down — the initial euphoric clarity is approachable, but the long-wave body relaxation makes this a poor choice for daytime productivity.",
-    "mood_ratings": {
-      "wind_down": 7,
-      "anxiety_relief": 8,
-      "lift_up": 5,
-      "get_creative": 3,
-      "get_social": 5,
-      "pain_body": 5,
-      "just_happy": 7,
-      "aphrodisiac": 6,
-      "deep_sleep": 4
-    }
-  },
   "c609701a342f": {
     "lineage": "Mango-flavored THC gummy edible by Voyageur — not a flower strain. No genetic lineage applicable; this is a manufactured edible product with extracted cannabis oil.",
     "therapeutic": "Stress relief, mild to moderate pain management, anxiety reduction, sleep aid, appetite stimulation, mood elevation",
@@ -1959,6 +1923,42 @@
       "just_happy": 3,
       "aphrodisiac": 3,
       "deep_sleep": 2
+    }
+  },
+  "sw335377": {
+    "lineage": "Grape Pie x Wedding Crasher x Ice Cream Cake (Bloom Seed Co.)",
+    "therapeutic": "Chronic pain, insomnia, stress relief, anxiety reduction",
+    "negative": "Couch-lock at high doses, dry mouth, dry eyes",
+    "aroma": "Sweet grape soda, ripe berry, whipped vanilla cream, doughy sweetness with faint gasoline on exhale",
+    "misc": "Bred by Harry Palms (Bloom Seed Co.), former head breeder at Oni Seed Co. THC typically 20–29%. Dense resinous buds with purple hues and heavy trichome coverage. Award-adjacent — recognized as a modern dessert strain classic. Strong indica-dominant effects best suited to evening use.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "anxiety_relief": 7,
+      "lift_up": 2,
+      "get_creative": 2,
+      "get_social": 2,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4,
+      "deep_sleep": 8
+    }
+  },
+  "sw291862": {
+    "lineage": "Tahoe OG x Runtz (Campfire Cannabis / breeder unconfirmed; Runtz itself is Zkittlez x Gelato by Cookies Fam)",
+    "therapeutic": "Stress relief, anxiety reduction, mild to moderate chronic pain, muscle tension, insomnia onset, mood elevation, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, potential dizziness or paranoia at high doses due to elevated THC (24.3%), possible couch-lock with heavy consumption, not recommended for low-tolerance users before physical activity",
+    "aroma": "Rich, dank earth anchored by classic kush and woody pine opens the nose, quickly layered with bright bursts of sweet citrus and tropical fruit that give it a creamy, almost dessert-like complexity. A subtle floral spice from linalool and a faint herbal whisper from humulene and ocimene round out the finish.",
+    "misc": "Lit OG blends the legendary potency and deep body sedation of Tahoe OG with the sweet, creamy fruit profile and euphoric lift of Runtz, resulting in an indica-dominant hybrid that punches well above average at 24.3% THC. Oversized olive-green nugs with purple accents, dense orange pistils, and a thick trichome frost make this a visually striking flower. Best consumed in the evening or late afternoon for winding down — the initial euphoric clarity is approachable, but the long-wave body relaxation makes this a poor choice for daytime productivity.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6,
+      "deep_sleep": 4
     }
   }
 }
