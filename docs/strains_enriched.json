@@ -1960,5 +1960,41 @@
       "aphrodisiac": 6,
       "deep_sleep": 4
     }
+  },
+  "sw419564": {
+    "lineage": "Blueberry (DJ Short) x Haze (Mr. Nice Seed Bank / Neville's Haze lineage) — popularized by DJ Short and widely propagated across California dispensaries",
+    "therapeutic": "Stress relief, depression, anxiety, mild pain, fatigue, ADD/ADHD, creative blocks, mood elevation",
+    "negative": "Dry mouth, dry eyes, mild paranoia or anxiety at higher doses, occasional headache, may feel overwhelming for low-tolerance users due to sativa-leaning cerebral intensity",
+    "aroma": "A lush, sweet wave of fresh blueberries and ripe mixed berries leads the nose, layered beneath with earthy herbal undertones, a whisper of vanilla cream, and a bright piney freshness that lifts the whole profile into something almost floral and effervescent.",
+    "misc": "Blue Dream is one of the most iconic and best-selling strains in the United States, originating in Santa Cruz, California, and dominating West Coast dispensary menus for over a decade. At 18.9% THC, this batch falls within the strain's typical range of 17–24%, offering a well-balanced experience suitable for daytime or early evening use. Buds are typically medium to large, dense yet fluffy, showcasing deep forest greens with amber pistils and a moderate frosting of trichomes; ideal for consumers seeking uplifting creativity and gentle relaxation without heavy sedation.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw419552": {
+    "lineage": "Mythic OG x Field Cookies x Gravenstein — a proprietary TriCross blend by Dizgo; Mythic OG is an OG Kush-derived indica powerhouse, Field Cookies draws from the GSC (Girl Scout Cookies) family, and Gravenstein is a rare California heritage strain named after the Gravenstein apple varietal, contributing fruity terpene complexity",
+    "therapeutic": "Stress relief, mild chronic pain, muscle tension, anxiety reduction, mood elevation, appetite stimulation, mild insomnia (evening use)",
+    "negative": "Dry mouth, dry eyes, potential couch-lock at higher doses, mild dizziness or paranoia in THC-sensitive users, drowsiness if overconsumed — pace yourself given the indica-leaning hybrid profile",
+    "aroma": "A richly layered bouquet opens with bright citrus and tart lemon zest underscored by sweet candy and anise, while deeper earthy pine and cracked black pepper notes emerge on the exhale, anchored by the myrcene-forward muskiness characteristic of OG-lineage genetics.",
+    "misc": "Dizgo's TriCross series features small-batch, multi-strain crosses designed for terpene complexity and balanced effects; at 20.4% THC this is a moderately potent indica-leaning hybrid well-suited for early evening use when creativity and body relaxation are both desired. The 3-pack of mini pre-rolls (0.33g each) is ideal for dose control, allowing consumers to microdose or session gradually. Bisabolol and linalool add a gentle floral calming layer that complements the more stimulating limonene, making this a nuanced smoke for both novice and experienced consumers.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
   }
 }
