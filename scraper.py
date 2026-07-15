@@ -204,6 +204,7 @@ def _normalize_sweed_product(raw: dict) -> dict | None:
                 weight = v_name
 
     return {
+        "sweed_id": raw.get("id"),
         "name": name, "brand": brand, "category": category,
         "strain_type": strain_type, "thc": thc, "cbd": cbd,
         "cbg": "", "cbn": "",
@@ -553,9 +554,20 @@ def _normalize(s: str) -> str:
     s = unicodedata.normalize("NFD", s).encode("ascii", "ignore").decode().lower().strip()
     return s.rstrip(" -–—.,")
 
-def product_key(p: dict) -> str:
+def _legacy_key(p: dict) -> str:
+    """Pre-2026-07-15 key scheme (name+brand text hash). Kept only to migrate
+    first_seen for products already tracked under it onto the new id-based key —
+    a POS-side rename/relabel changes this key even though the product is the same."""
     key = f"{_normalize(p.get('name',''))}-{_normalize(p.get('brand',''))}"
     return hashlib.md5(key.encode()).hexdigest()[:12]
+
+def product_key(p: dict) -> str:
+    """Sweed's own product id is stable across name/label changes; only fall back
+    to the text-based key for products with no id (e.g. DOM-scrape fallback)."""
+    sid = p.get("sweed_id")
+    if sid:
+        return f"sw{sid}"
+    return _legacy_key(p)
 
 def load_db() -> dict:
     if DATA_FILE.exists():
@@ -575,14 +587,21 @@ def merge(db: dict, fresh: list[dict]) -> dict:
     for p in fresh:
         pid = product_key(p)
         seen.add(pid)
-        if pid not in data:
-            p["first_seen"] = now
-            log(f"  NEW: {p['name']}")
-        elif data[pid].get("category") != p.get("category"):
-            p["first_seen"] = now
-            log(f"  CATEGORY CHANGE ({data[pid].get('category')} → {p.get('category')}): {p['name']}")
+        if pid in data:
+            if data[pid].get("category") != p.get("category"):
+                p["first_seen"] = now
+                log(f"  CATEGORY CHANGE ({data[pid].get('category')} → {p.get('category')}): {p['name']}")
+            else:
+                p["first_seen"] = data[pid]["first_seen"]
         else:
-            p["first_seen"] = data[pid]["first_seen"]
+            legacy_pid = _legacy_key(p)
+            if legacy_pid != pid and legacy_pid in data:
+                p["first_seen"] = data[legacy_pid]["first_seen"]
+                del data[legacy_pid]
+                log(f"  MIGRATED (legacy key → id key): {p['name']}")
+            else:
+                p["first_seen"] = now
+                log(f"  NEW: {p['name']}")
         p["last_seen"] = now
         data[pid] = p
     for pid, p in data.items():
