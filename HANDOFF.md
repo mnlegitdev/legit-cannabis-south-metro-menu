@@ -20,6 +20,8 @@ products.json   strains_enriched.json   docs/index.html
    - Strategy 2: the same API call routed through a headless Playwright browser (shares real session cookies, usually bypasses the WAF)
    - Strategy 3: DOM scraping of the rendered menu page, if both API paths fail
    - Saves everything to `docs/products.json`, tracking `first_seen` / `last_seen` per product so the site can show "New" and "Sold Out" sections.
+   - **Product identity** (`product_key()`): each product is keyed on Sweed's own `id` field from the raw API response (`sw{id}`), not on its name/brand text. This matters because Sweed relabels products often (pack-size wording, punctuation) — a text-based key would treat every relabel as a brand-new product and falsely reset `first_seen`, which is exactly what happened before 2026-07-15 (see `server-runbook` incident). Only Strategy 3 (DOM fallback) still falls back to the old name+brand text key, since the DOM has no access to Sweed's internal id — so a rename during a DOM-fallback period could still trigger a false "new" badge. This is a known, currently-unresolved edge case; Strategy 3 is rare in practice.
+   - **If the key scheme is ever changed again**: `docs/strains_enriched.json` (see next step) is keyed the same way — update both together. Missing this the first time caused `enrich_strains.py` to treat the entire menu as unenriched and start a full re-enrichment run via the Claude API mid-deploy.
 
 2. **`enrich_strains.py`** — For every product in `products.json` that doesn't yet have an entry in `docs/strains_enriched.json`, it calls the Claude API twice:
    - Once to generate a strain profile (lineage, therapeutic uses, negative effects, aroma, misc notes)
