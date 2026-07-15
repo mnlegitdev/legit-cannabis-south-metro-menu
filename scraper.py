@@ -337,10 +337,6 @@ def _sweed_fetch_all(page, store_id) -> list[dict]:
                 log(f"    page {page_num} → HTTP {result.get('__status')}")
                 raw = result.get("__data")
                 _write_debug(cat_name, page_num, raw)
-                if cat_name == "pre-roll" and isinstance(raw, dict) and raw.get("list"):
-                    dbg_path = DATA_FILE.parent / "debug_one_raw_product.json"
-                    with open(dbg_path, "w") as f:
-                        json.dump(raw["list"][0], f, indent=2)
                 found = _parse_sweed_response(raw, force_category=cat_name)
                 if not found:
                     log(f"    0 products in response")
@@ -524,6 +520,12 @@ def try_playwright() -> list[dict]:
 
             new_responses = pending[before:]
             cat_products = 0
+            if cat_name == "pre-roll" and new_responses:
+                items = (new_responses[0] or {}).get("list") or []
+                if items:
+                    dbg_path = DATA_FILE.parent / "debug_one_raw_product.json"
+                    with open(dbg_path, "w") as f:
+                        json.dump(items[0], f, indent=2)
             for data in new_responses:
                 found = _parse_sweed_response(data, force_category=cat_name)
                 for p in found:
