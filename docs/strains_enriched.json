@@ -13,7 +13,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 8
     }
   },
   "9bd115b860af": {
@@ -30,7 +31,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 7,
-      "aphrodisiac": 7
+      "aphrodisiac": 7,
+      "deep_sleep": 8
     }
   },
   "c7bc9b6b18c2": {
@@ -47,7 +49,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 3
     }
   },
   "2223f6ee76a3": {
@@ -64,7 +67,8 @@
       "get_social": 3,
       "pain_body": 2,
       "just_happy": 5,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 4
     }
   },
   "f9a02875b44a": {
@@ -81,7 +85,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 8
     }
   },
   "8ddb5a864d39": {
@@ -98,7 +103,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "d024338fee18": {
@@ -115,7 +121,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 7,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 7
     }
   },
   "1ff4b7efe819": {
@@ -132,7 +139,8 @@
       "get_social": 2,
       "pain_body": 7,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 8
     }
   },
   "6ba39e627a58": {
@@ -149,7 +157,8 @@
       "get_social": 3,
       "pain_body": 4,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "265b210f94fe": {
@@ -166,7 +175,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "99326fcf9900": {
@@ -183,7 +193,8 @@
       "get_social": 4,
       "pain_body": 5,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 8
     }
   },
   "6a06396da757": {
@@ -200,7 +211,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "4b794faff189": {
@@ -217,7 +229,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 4
     }
   },
   "e1138882d6cd": {
@@ -234,7 +247,8 @@
       "get_social": 7,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 3
     }
   },
   "184eb9c71846": {
@@ -251,7 +265,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 8
     }
   },
   "b0990993b588": {
@@ -268,7 +283,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "a64e2855f46b": {
@@ -285,7 +301,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "3f9c768ad3ef": {
@@ -302,7 +319,8 @@
       "get_social": 4,
       "pain_body": 6,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "9934b135c2db": {
@@ -319,7 +337,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "45e8067b787c": {
@@ -336,7 +355,8 @@
       "get_social": 3,
       "pain_body": 4,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "961994b89518": {
@@ -353,7 +373,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "d6623d889658": {
@@ -370,7 +391,8 @@
       "get_social": 2,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 8
     }
   },
   "7f7ffa3551e7": {
@@ -387,7 +409,8 @@
       "get_social": 7,
       "pain_body": 6,
       "just_happy": 5,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 2
     }
   },
   "dbcb7ab15506": {
@@ -404,7 +427,8 @@
       "get_social": 4,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 7
     }
   },
   "32de19b6f29e": {
@@ -421,7 +445,8 @@
       "get_social": 4,
       "pain_body": 6,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 6
     }
   },
   "c697f763d6e1": {
@@ -438,7 +463,8 @@
       "get_social": 4,
       "pain_body": 6,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "aadbe36acb08": {
@@ -455,7 +481,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "ae8b04d10a31": {
@@ -472,7 +499,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 7,
-      "aphrodisiac": 7
+      "aphrodisiac": 7,
+      "deep_sleep": 7
     }
   },
   "57a8dde82c12": {
@@ -489,7 +517,8 @@
       "get_social": 3,
       "pain_body": 6,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "baa51ab3ca78": {
@@ -506,7 +535,8 @@
       "get_social": 7,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "b07cb1ec42ba": {
@@ -523,7 +553,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "e2b95f79aa58": {
@@ -540,7 +571,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "03df98cc7bf8": {
@@ -557,7 +589,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 4
     }
   },
   "7b052b7dd4f2": {
@@ -574,7 +607,8 @@
       "get_social": 5,
       "pain_body": 3,
       "just_happy": 5,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 3
     }
   },
   "ce49eae04ae2": {
@@ -591,7 +625,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "45acbd932aeb": {
@@ -608,7 +643,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "956c29d611b1": {
@@ -625,7 +661,8 @@
       "get_social": 5,
       "pain_body": 3,
       "just_happy": 5,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "e958853503bb": {
@@ -642,7 +679,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "62d25dc9d10f": {
@@ -659,7 +697,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 4
     }
   },
   "87fe23eebf9e": {
@@ -676,7 +715,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "0332f6000648": {
@@ -693,7 +733,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 7,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 7
     }
   },
   "e0b832e65b4f": {
@@ -710,7 +751,8 @@
       "get_social": 3,
       "pain_body": 4,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 3
     }
   },
   "74b7692498fa": {
@@ -727,7 +769,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 4
     }
   },
   "dd494fcaec3c": {
@@ -744,7 +787,8 @@
       "get_social": 3,
       "pain_body": 4,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 3
     }
   },
   "51e2e4ac77bd": {
@@ -761,7 +805,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "dad815e9d863": {
@@ -778,7 +823,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "1072e363f968": {
@@ -795,7 +841,8 @@
       "get_social": 5,
       "pain_body": 6,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "83b9bf160cc6": {
@@ -812,7 +859,8 @@
       "get_social": 6,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 3
     }
   },
   "68387bbac1ce": {
@@ -829,7 +877,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 4
     }
   },
   "83fa406599ab": {
@@ -846,7 +895,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "497cc3e8e881": {
@@ -863,7 +913,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 4
     }
   },
   "fcef6afb069c": {
@@ -880,7 +931,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "130803345c65": {
@@ -897,7 +949,8 @@
       "get_social": 3,
       "pain_body": 6,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "67cddfb4cd43": {
@@ -914,7 +967,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "430d15195b26": {
@@ -931,7 +985,8 @@
       "get_social": 4,
       "pain_body": 4,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 4
     }
   },
   "99d83976ed16": {
@@ -948,7 +1003,8 @@
       "get_social": 7,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 2
     }
   },
   "6758c34ef497": {
@@ -965,7 +1021,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "67d2a8b001d3": {
@@ -982,7 +1039,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "2f31fd50f830": {
@@ -999,7 +1057,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 4
     }
   },
   "5c33b524689a": {
@@ -1016,7 +1075,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 8
     }
   },
   "300fd57c06bd": {
@@ -1033,7 +1093,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 8
     }
   },
   "5d8f6c97b9ab": {
@@ -1050,7 +1111,8 @@
       "get_social": 3,
       "pain_body": 7,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "39b8db68a598": {
@@ -1067,7 +1129,8 @@
       "get_social": 3,
       "pain_body": 4,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 4
     }
   },
   "3c5d10cfef28": {
@@ -1084,7 +1147,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "2778a3a16ea4": {
@@ -1101,7 +1165,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "c3ac2c3375ab": {
@@ -1118,7 +1183,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "5cc9edab9f48": {
@@ -1135,7 +1201,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "643a5fc06fa2": {
@@ -1152,7 +1219,8 @@
       "get_social": 3,
       "pain_body": 6,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "bc4c058f8526": {
@@ -1169,7 +1237,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "223a4c4c39a3": {
@@ -1186,7 +1255,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 7,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 4
     }
   },
   "d3006f64125c": {
@@ -1203,7 +1273,8 @@
       "get_social": 2,
       "pain_body": 6,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 5
     }
   },
   "545182529a61": {
@@ -1220,7 +1291,8 @@
       "get_social": 6,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 3
     }
   },
   "72e775ab419b": {
@@ -1237,7 +1309,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "2fc15c23d6c8": {
@@ -1254,7 +1327,8 @@
       "get_social": 3,
       "pain_body": 6,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 7
     }
   },
   "f78909fb37f2": {
@@ -1271,7 +1345,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "89e1c139f216": {
@@ -1288,7 +1363,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 7,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 3
     }
   },
   "829a9b926d61": {
@@ -1305,7 +1381,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "d129639aaad3": {
@@ -1322,7 +1399,8 @@
       "get_social": 5,
       "pain_body": 6,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "f3e6b0175974": {
@@ -1339,7 +1417,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 4
     }
   },
   "d57b1883b7b7": {
@@ -1356,7 +1435,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "a1d94f46edc0": {
@@ -1373,7 +1453,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "487b0db2bda3": {
@@ -1390,7 +1471,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "b61e85652136": {
@@ -1407,7 +1489,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 8
     }
   },
   "4df4f8a73ed8": {
@@ -1424,7 +1507,8 @@
       "get_social": 2,
       "pain_body": 6,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "e019a1dcc69b": {
@@ -1441,7 +1525,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "544546f4af9b": {
@@ -1458,7 +1543,8 @@
       "get_social": 7,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 2
     }
   },
   "bcda70086ab4": {
@@ -1475,7 +1561,8 @@
       "get_social": 2,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 8
     }
   },
   "299f063bcfee": {
@@ -1492,7 +1579,8 @@
       "get_social": 7,
       "pain_body": 3,
       "just_happy": 5,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 2
     }
   },
   "ef28e34f66ec": {
@@ -1509,7 +1597,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 8
     }
   },
   "65ec8d5fbc0c": {
@@ -1526,7 +1615,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "05f86efba14c": {
@@ -1543,7 +1633,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   },
   "66477ce1c142": {
@@ -1560,7 +1651,8 @@
       "get_social": 3,
       "pain_body": 4,
       "just_happy": 4,
-      "aphrodisiac": 2
+      "aphrodisiac": 2,
+      "deep_sleep": 4
     }
   },
   "4ae59f844af9": {
@@ -1577,7 +1669,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 7,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 4
     }
   },
   "c609701a342f": {
@@ -1594,7 +1687,8 @@
       "get_social": 2,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 2
+      "aphrodisiac": 2,
+      "deep_sleep": 2
     }
   },
   "8003f2b26a89": {
@@ -1611,7 +1705,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "2457a561c047": {
@@ -1628,7 +1723,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "7e6663765314": {
@@ -1645,7 +1741,8 @@
       "get_social": 3,
       "pain_body": 4,
       "just_happy": 4,
-      "aphrodisiac": 2
+      "aphrodisiac": 2,
+      "deep_sleep": 4
     }
   },
   "46c01c7585d2": {
@@ -1662,7 +1759,8 @@
       "get_social": 3,
       "pain_body": 3,
       "just_happy": 3,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 2
     }
   },
   "5c5d3effa041": {
@@ -1679,7 +1777,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 4,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "6bba413e0823": {
@@ -1696,7 +1795,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "a62c1cb48f44": {
@@ -1713,7 +1813,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "8a1828b347ce": {
@@ -1730,7 +1831,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "85247fa2585c": {
@@ -1747,7 +1849,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 6
+      "aphrodisiac": 6,
+      "deep_sleep": 3
     }
   },
   "f764b07ef133": {
@@ -1764,7 +1867,8 @@
       "get_social": 3,
       "pain_body": 5,
       "just_happy": 6,
-      "aphrodisiac": 5
+      "aphrodisiac": 5,
+      "deep_sleep": 8
     }
   },
   "63d564379dc0": {
@@ -1781,7 +1885,8 @@
       "get_social": 5,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "9ab1ca36ee93": {
@@ -1798,7 +1903,8 @@
       "get_social": 2,
       "pain_body": 6,
       "just_happy": 3,
-      "aphrodisiac": 2
+      "aphrodisiac": 2,
+      "deep_sleep": 4
     }
   },
   "18602e9414ae": {
@@ -1815,7 +1921,8 @@
       "get_social": 5,
       "pain_body": 6,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   },
   "c56798e59545": {
@@ -1832,7 +1939,8 @@
       "get_social": 5,
       "pain_body": 4,
       "just_happy": 5,
-      "aphrodisiac": 3
+      "aphrodisiac": 3,
+      "deep_sleep": 4
     }
   },
   "2973628548fa": {
@@ -1849,7 +1957,8 @@
       "get_social": 4,
       "pain_body": 5,
       "just_happy": 5,
-      "aphrodisiac": 4
+      "aphrodisiac": 4,
+      "deep_sleep": 5
     }
   }
 }
