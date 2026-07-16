@@ -1996,5 +1996,41 @@
       "just_happy": 6,
       "aphrodisiac": 5
     }
+  },
+  "sw419586": {
+    "lineage": "Blue Mammoth Auto x Blue Dream x Amnesia (dizgo); Blue Mammoth Auto derives from Blueberry x Mammoth Auto genetics, Blue Dream from Blueberry x Haze (DJ Short / Cookie Fam popularized), Amnesia from Haze-dominant Old World genetics (Soma Seeds attributed)",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, creative blocks, fatigue, mild pain, mood elevation",
+    "negative": "Dry mouth, dry eyes, possible mild anxiety or racing thoughts at higher doses for THC-sensitive users, slight grogginess if overconsumed due to myrcene-heavy profile",
+    "aroma": "Orion opens with a bright wave of sweet blueberry and tropical fruit underscored by fresh alpine pine, then settles into a soft, floral-candy sweetness courtesy of linalool and bisabolol. A subtle earthy musk from myrcene and farnesene rounds the nose with a clean, herbaceous finish.",
+    "misc": "Produced by dizgo, Orion sits at a moderate 16.6% THC making it approachable for intermediate consumers and less overwhelming for newer users seeking balanced effects. Buds are expected to display dense, frosty structure with blue-green hues and amber pistils reflecting its Blueberry-heavy ancestry. Best suited for late afternoon or early evening use when creativity and relaxation are both desired without full sedation.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 7,
+      "anxiety_relief": 5,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 2,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw419620": {
+    "lineage": "Northern Lights x Alien OG (Northern Lights: Afghani landrace x Thai; Alien OG: Alien Kush x Tahoe OG)",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, insomnia, depression, muscle tension",
+    "negative": "Dry mouth, dry eyes, possible dizziness or mild paranoia at higher doses, couch-lock with heavy consumption",
+    "aroma": "A pungent, skunky base rises first, undercut by bright lemon-citrus and sweet floral notes that give way to earthy, herbal spice on the exhale. The profile is complex and layered, blending the classic OG funk with a softer, almost perfumed sweetness inherited from Northern Lights.",
+    "misc": "Alien Lights (Northern Lights x Alien OG) is a well-balanced hybrid that leans slightly indica in its body effect, making it a versatile evening or wind-down strain. At 20.1% THC, it delivers a moderately potent experience suitable for intermediate consumers, opening with an uplifting cerebral euphoria before settling into a calm, relaxing body state. Avió's pre-roll format makes this an accessible, ready-to-enjoy option; consumers sensitive to THC should pace themselves, as the dual-OG heritage can intensify sedative effects over time.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
   }
 }
