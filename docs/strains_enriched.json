@@ -935,24 +935,6 @@
       "deep_sleep": 4
     }
   },
-  "bc4c058f8526": {
-    "lineage": "Likely a proprietary or house hybrid cross; possibly derived from citrus-forward and OG-influenced genetics such as a Lemon or Orange-based cultivar crossed with an earthy Kush or Diesel variety — exact breeder and parentage unconfirmed, developed or curated by Campfire Cannabis",
-    "therapeutic": "Stress relief, anxiety management, mild depression, mental fatigue, creative blocks, mild pain relief, mood elevation",
-    "negative": "Dry mouth, dry eyes, mild paranoia in sensitive users at higher doses, occasional mild headache, may cause restlessness in those sensitive to sativa-leaning hybrids",
-    "aroma": "The nose opens with a vivid burst of fresh citrus — bright orange peel and zesty lemon — riding on a current of piney freshness and light floral ocimene sweetness. Beneath the top notes, earthy herbal undertones and a faint diesel spice add depth and complexity to the overall bouquet.",
-    "misc": "Fight Club is a sativa-leaning hybrid at 21.8% THC, making it a moderately potent option well-suited for intermediate to experienced consumers. The dense forest-green buds with purple accents and heavy trichome coverage suggest a well-cultivated phenotype with strong resin production. Best enjoyed during morning to early evening hours when creative focus and uplifted social energy are desired without sacrificing functional clarity.",
-    "mood_ratings": {
-      "wind_down": 7,
-      "anxiety_relief": 4,
-      "lift_up": 7,
-      "get_creative": 8,
-      "get_social": 6,
-      "pain_body": 5,
-      "just_happy": 5,
-      "aphrodisiac": 4,
-      "deep_sleep": 4
-    }
-  },
   "223a4c4c39a3": {
     "lineage": "Snowman x The Y (Cookies Fam & Powerzzzup Genetics) — Note: The store-listed lineage of Snowman x Cherry Pie x Girl Scout Cookies reflects the broader Cookies family tree; the commercially recognized Gary Payton was developed by Cookies Fam in collaboration with Powerzzzup Genetics, named after NBA Hall of Famer Gary Payton",
     "therapeutic": "Stress relief, anxiety management, mild depression, fatigue, low-grade pain, mood elevation, focus support",
@@ -2031,6 +2013,42 @@
       "pain_body": 5,
       "just_happy": 4,
       "aphrodisiac": 3
+    }
+  },
+  "sw316516": {
+    "lineage": "Likely a proprietary or house hybrid cross; possibly derived from citrus-forward and OG-influenced genetics such as a Lemon or Orange-based cultivar crossed with an earthy Kush or Diesel variety — exact breeder and parentage unconfirmed, developed or curated by Campfire Cannabis",
+    "therapeutic": "Stress relief, anxiety management, mild depression, mental fatigue, creative blocks, mild pain relief, mood elevation",
+    "negative": "Dry mouth, dry eyes, mild paranoia in sensitive users at higher doses, occasional mild headache, may cause restlessness in those sensitive to sativa-leaning hybrids",
+    "aroma": "The nose opens with a vivid burst of fresh citrus — bright orange peel and zesty lemon — riding on a current of piney freshness and light floral ocimene sweetness. Beneath the top notes, earthy herbal undertones and a faint diesel spice add depth and complexity to the overall bouquet.",
+    "misc": "Fight Club is a sativa-leaning hybrid at 21.8% THC, making it a moderately potent option well-suited for intermediate to experienced consumers. The dense forest-green buds with purple accents and heavy trichome coverage suggest a well-cultivated phenotype with strong resin production. Best enjoyed during morning to early evening hours when creative focus and uplifted social energy are desired without sacrificing functional clarity.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "anxiety_relief": 4,
+      "lift_up": 7,
+      "get_creative": 8,
+      "get_social": 6,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4,
+      "deep_sleep": 4
+    }
+  },
+  "sw425242": {
+    "lineage": "Infused edible product — no botanical strain lineage. Sour Apple by Voyageur is a cannabis-infused gummy formulated with distillate or refined extract; flavor profile is artificial/natural green apple flavoring rather than a specific cultivar lineage.",
+    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, appetite stimulation, minor pain management",
+    "negative": "Delayed onset (30–90 minutes), overconsumption risk due to palatable flavor, dry mouth, increased heart rate at higher doses, impaired coordination, anxiety or paranoia if threshold exceeded — especially for novice consumers",
+    "aroma": "Bright, zesty green apple dominates with a sharp citric tartness reminiscent of Granny Smith apple candy. A clean sugary sweetness underlies the sour top note, evoking classic sour gummy confectionery.",
+    "misc": "Each gummy contains a precisely measured 10mg THC with a total of 100mg per pack, making this an approachable format for both beginners (start with 5mg or half a gummy) and experienced consumers. New users should wait at least 90 minutes before redosing, as edible onset varies significantly based on metabolism, body weight, and food intake. Voyageur positions this product for on-the-go convenience and consistent dosing, making it a reliable choice for recreational use or casual therapeutic application.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 3,
+      "lift_up": 3,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 2,
+      "just_happy": 3,
+      "aphrodisiac": 2
     }
   }
 }
