@@ -2230,5 +2230,77 @@
       "just_happy": 3,
       "aphrodisiac": 2
     }
+  },
+  "sw432697": {
+    "lineage": "Misty x Unknown Sativa/Indica Hybrid (Dizgo); Misty itself is a classic Dutch variety bred by Sensi Seeds, derived from White Widow genetics with Skunk and Haze influences",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, mental fatigue, mood elevation, mild pain management",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, possible dizziness in low-tolerance users",
+    "aroma": "A lush wave of ripe mixed berries and sweet floral notes opens the experience, underscored by a subtle earthy musk from the Myrcene base and a faintly herbal, almost green-tea-like finish courtesy of Ocimene and Farnesene.",
+    "misc": "Medusa by Dizgo sits at a moderate 17.9% THC, making it accessible for intermediate consumers while still delivering a balanced hybrid experience. Buds are typically dense with a light frosty trichome coating, displaying deep greens with hints of purple inherited from the Misty lineage. Best suited for daytime to early evening use, this strain is ideal for creative tasks, social settings, or unwinding after work without heavy sedation.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 4,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 6,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
+  },
+  "sw432701": {
+    "lineage": "Atlas Star × Cotton Candy (Dizgo / proprietary hybrid cross; Cotton Candy likely derived from Power Plant × Haze lineage)",
+    "therapeutic": "Insomnia, stress relief, anxiety, mild pain management, appetite stimulation, mood elevation",
+    "negative": "Dry mouth, dry eyes, mild dizziness at higher doses, potential for couch-lock, may cause drowsiness if used during daytime",
+    "aroma": "A sweet, fruity bouquet opens with bright citrus zest and ripe tropical notes, underpinned by a warm, doughy cookie-like sweetness reminiscent of candy shops and fresh-baked goods. Subtle earthy and spicy undertones from caryophyllene round out the profile, adding depth beneath the sugary surface.",
+    "misc": "Top Gun by Dizgo is a indica-leaning hybrid bred for relaxation and mild euphoria, making it best suited for evening or late-night use when winding down. At 15.1% THC, it sits in a moderate range ideal for casual to intermediate consumers — approachable enough for newer users while still delivering noticeable calming and sleepy effects. The 3-pack of 0.33g mini pre-rolls is designed for microdosing or session flexibility, allowing consumers to control intake without committing to a full-sized joint.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 2,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw381984": {
+    "lineage": "Likely a proprietary hybrid developed by or for Dizgo; 'Orion' does not appear in major public strain databases (Leafly, AllBud, Seedfinder), suggesting it is a house or in-house cultivar — possibly crosses involving Zkittlez, Wedding Cake, or OG Kush genetics based on terpene and effect profile, though exact parentage is undisclosed. Branded as a 'drift' strain by Dizgo.",
+    "therapeutic": "Stress relief, anxiety management, mild insomnia, muscle tension, chronic pain, mood elevation, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, potential drowsiness or couch-lock at higher doses, mild dizziness in THC-sensitive users, may cause grogginess if used during daytime",
+    "aroma": "Orion opens with a sweet, candy-like fruitiness underscored by fresh alpine pine and a subtle floral softness from linalool and bisabolol. Deeper on the exhale, earthy musky base notes from myrcene and farnesene emerge, giving the profile a grounded, resinous finish that balances the sweeter top notes.",
+    "misc": "At 19.8% THC, Orion sits in a mid-to-upper range well-suited for intermediate consumers; novices should approach the 0.5g pre-rolls with measured puffing given the sedating terpene stack of myrcene, linalool, and bisabolol. Best consumed in the early evening or before bed, as the balanced euphoric onset gradually transitions into notable body relaxation and sleepiness. The two-pack format makes it convenient for shared sessions or split use across two nights for those monitoring intake.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 8,
+      "anxiety_relief": 5,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 2,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw367338": {
+    "lineage": "Amnesia Haze x Lemon Skunk x Sin Tra Dos (likely Amnesia x Lemon x unknown hybrid; F1 hybrid designation suggests a first-generation cross, possibly developed by or in association with Dizgo's breeding program)",
+    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, fatigue, social anxiety, mild depression",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia in sensitive users, slight dizziness at higher consumption; moderate THC level generally well-tolerated but novice users should pace themselves",
+    "aroma": "A bright and zesty citrus-forward nose opens with sharp lemon and tangy haze, undercut by a damp earthiness and a subtle spicy pine resin. As it warms, faint peppery and herbal notes emerge, giving the overall aroma a grounded yet energetic character.",
+    "misc": "Hyperion F1 is a branded first-generation hybrid from Dizgo, with the 'F1' designation indicating a stabilized cross likely selected for consistent terpene expression and a balanced hybrid effect profile. At 13.9% THC, this is an approachable mid-strength option ideal for daytime to early evening social use, offering uplift and laughter without overwhelming sedation. The dominant myrcene provides a relaxing body foundation while pinene sharpens mental clarity and caryophyllene adds a spicy, stress-relieving edge — making this a solid choice for creative hangouts or casual social settings.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 7,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
   }
 }
