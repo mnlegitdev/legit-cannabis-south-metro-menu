@@ -35,24 +35,6 @@
       "deep_sleep": 8
     }
   },
-  "2223f6ee76a3": {
-    "lineage": "Tahoe OG x Runtz",
-    "therapeutic": "Insomnia, chronic pain, stress, anxiety, muscle tension",
-    "negative": "Dry mouth, dry eyes, heavy sedation — not for daytime use",
-    "aroma": "Earthy OG pine with sweet candy citrus, creamy tropical undertones, classic kush musk base",
-    "misc": "Combines Tahoe OG's heavy-hitting indica body stone with Runtz's sweet candy genetics. THC 25–30%. Dense frosty buds. The OG backbone delivers reliable potency and full-body relaxation while Runtz adds dessert sweetness. Best for evening wind-down or pre-sleep.",
-    "mood_ratings": {
-      "wind_down": 7,
-      "anxiety_relief": 7,
-      "lift_up": 5,
-      "get_creative": 3,
-      "get_social": 3,
-      "pain_body": 2,
-      "just_happy": 5,
-      "aphrodisiac": 6,
-      "deep_sleep": 4
-    }
-  },
   "8ddb5a864d39": {
     "lineage": "Purple Panty Dropper x Blueberry (Humboldt Seed Co.)",
     "therapeutic": "Stress, anxiety, mild pain, insomnia, depression, appetite",
@@ -698,24 +680,6 @@
       "pain_body": 5,
       "just_happy": 5,
       "aphrodisiac": 4,
-      "deep_sleep": 4
-    }
-  },
-  "430d15195b26": {
-    "lineage": "Grape Pie x Cookies and Cream (Grape Pie = Cherry Pie x Grape Stomper; Cookies and Cream = Starfighter x GSC phenotype, bred by Exotic Genetix)",
-    "therapeutic": "Stress relief, anxiety management, mild depression, appetite stimulation, creative blocks, social anxiety, mild pain and muscle tension",
-    "negative": "Dry mouth, dry eyes, possible mild paranoia or racing thoughts in THC-sensitive users, light couch-lock as effects deepen, overconsumption may increase anxiety",
-    "aroma": "A lush, dessert-forward bouquet opens with ripe Concord grape and sweet cherry, quickly giving way to a thick vanilla cream undertone reminiscent of a fruit tart fresh from the oven. Subtle earthy spice and a faint floral lift from linalool round out the profile, keeping it complex without losing its indulgent sweetness.",
-    "misc": "Grapes N Cream is produced by Campfire Cannabis and sits at approximately 20–23% THC, making it a moderately potent hybrid well-suited to intermediate consumers. Buds present as oversized, neon-green nuggets with amber undertones, dense orange pistils, and a heavy frost of golden trichomes that reflect its rich terpene load. Best consumed in the late afternoon or early evening when its arc from focused creativity to full-body calm aligns naturally with winding down social or creative sessions before rest.",
-    "mood_ratings": {
-      "wind_down": 7,
-      "anxiety_relief": 8,
-      "lift_up": 4,
-      "get_creative": 7,
-      "get_social": 4,
-      "pain_body": 4,
-      "just_happy": 6,
-      "aphrodisiac": 5,
       "deep_sleep": 4
     }
   },
@@ -2301,6 +2265,96 @@
       "pain_body": 5,
       "just_happy": 4,
       "aphrodisiac": 3
+    }
+  },
+  "sw368633": {
+    "lineage": "Grape Pie x Cookies and Cream (Grape Pie = Cherry Pie x Grape Stomper; Cookies and Cream = Starfighter x GSC phenotype, bred by Exotic Genetix)",
+    "therapeutic": "Stress relief, anxiety management, mild depression, appetite stimulation, creative blocks, social anxiety, mild pain and muscle tension",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or racing thoughts in THC-sensitive users, light couch-lock as effects deepen, overconsumption may increase anxiety",
+    "aroma": "A lush, dessert-forward bouquet opens with ripe Concord grape and sweet cherry, quickly giving way to a thick vanilla cream undertone reminiscent of a fruit tart fresh from the oven. Subtle earthy spice and a faint floral lift from linalool round out the profile, keeping it complex without losing its indulgent sweetness.",
+    "misc": "Grapes N Cream is produced by Campfire Cannabis and sits at approximately 20–23% THC, making it a moderately potent hybrid well-suited to intermediate consumers. Buds present as oversized, neon-green nuggets with amber undertones, dense orange pistils, and a heavy frost of golden trichomes that reflect its rich terpene load. Best consumed in the late afternoon or early evening when its arc from focused creativity to full-body calm aligns naturally with winding down social or creative sessions before rest.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "anxiety_relief": 8,
+      "lift_up": 4,
+      "get_creative": 7,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 6,
+      "aphrodisiac": 5,
+      "deep_sleep": 4
+    }
+  },
+  "sw242323": {
+    "lineage": "Tahoe OG x Runtz",
+    "therapeutic": "Insomnia, chronic pain, stress, anxiety, muscle tension",
+    "negative": "Dry mouth, dry eyes, heavy sedation — not for daytime use",
+    "aroma": "Earthy OG pine with sweet candy citrus, creamy tropical undertones, classic kush musk base",
+    "misc": "Combines Tahoe OG's heavy-hitting indica body stone with Runtz's sweet candy genetics. THC 25–30%. Dense frosty buds. The OG backbone delivers reliable potency and full-body relaxation while Runtz adds dessert sweetness. Best for evening wind-down or pre-sleep.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "anxiety_relief": 7,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 2,
+      "just_happy": 5,
+      "aphrodisiac": 6,
+      "deep_sleep": 4
+    }
+  },
+  "sw434017": {
+    "lineage": "Chem Dog Funk x Auto Varin Lime Sour (Campfire Cannabis)",
+    "therapeutic": "Stress relief, muscle tension, mild pain management, anxiety reduction, mood elevation, fatigue",
+    "negative": "Dry mouth, dry eyes, potential paranoia or anxiety at high doses, couch-lock if overconsumed, not recommended for novice users due to high potency",
+    "aroma": "An aggressive, barnyard-forward funk opens immediately with diesel fuel and scorched rubber, followed by a sharp sour citrus bite that lingers on the exhale. Deep earthy and musky base notes round out a complex, gassy bouquet that is unmistakably rooted in Chemdog heritage.",
+    "misc": "Bred by or exclusively offered through Campfire Cannabis, Barnyard High Test sits at 22% THC with a robust terpene profile dominated by Myrcene and Caryophyllene, lending heavy body relaxation alongside the Limonene and Linalool-driven mood lift. Buds are typically dense and resin-coated with earthy olive-green hues and amber trichomes reflecting its potent cannabinoid load. Best suited for evening or late afternoon use by experienced consumers, this strain is ideal for unwinding after physical labor or managing chronic stress without full sedation.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 8,
+      "anxiety_relief": 5,
+      "lift_up": 3,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw347758": {
+    "lineage": "Chem's Sister x Sour Dubb x Chocolate Diesel (Joesy Whales & Lone Watty / GG Strains)",
+    "therapeutic": "Insomnia, chronic pain, muscle tension, stress, anxiety, appetite stimulation, depression",
+    "negative": "Dry mouth, dry eyes, couch-lock at higher doses, potential dizziness or paranoia in low-tolerance users, heavy sedation may impair productivity",
+    "aroma": "A pungent blast of chemical fuel and sour diesel dominates the nose, underpinned by rich earthy cocoa and a whisper of roasted coffee, with faint piney brightness rounding out the back end. The overall scent is bold and complex — dank and industrial with an unexpected sweetness that lingers.",
+    "misc": "GG4 (Gorilla Glue #4) is one of the most decorated strains in modern cannabis, earning multiple High Times Cannabis Cup wins and becoming a benchmark for potency and resin production. Typical THC ranges run from 18–28%, placing this 19.7% expression solidly in the mid-range for the strain. The indica-leaning effects make it best reserved for evening or night use; newer consumers should approach with caution due to its deeply sedating finish and strong full-body lock.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw434001": {
+    "lineage": "Kush Mintz x Alien Cookies (Alien Labs x Capulator collaboration; Capulator is credited as the primary breeder of Cap Junky)",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, appetite stimulation, mood elevation, fatigue, depression",
+    "negative": "Dry mouth, dry eyes, possible paranoia or anxiety at high doses, mild dizziness in low-tolerance users, overconsumption may lead to couch-lock despite active-leaning profile",
+    "aroma": "An intoxicating blend of fresh spearmint and cool menthol layered over sharp diesel fuel and sweet pine resin, with subtle floral and earthy undertones that deepen as the bud warms. The nose is complex and assertive, finishing with a faint creamy cookie note inherited from its Alien Cookies parentage.",
+    "misc": "Cap Junky was developed by Capulator, the same breeder behind MAC (Miracle Alien Cookies), and has garnered significant underground acclaim for its exceptional trichome production and well-rounded high. Typical THC levels range from 24–29%, making this 26% Campfire Cannabis expression a true representation of the strain's potency ceiling. Best enjoyed in the late afternoon or early evening when social engagement is desired without full sedation; ideal for creative sessions, social gatherings, or unwinding after work without losing functional energy.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 7,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
     }
   }
 }
