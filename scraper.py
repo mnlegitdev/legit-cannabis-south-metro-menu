@@ -138,6 +138,19 @@ def _norm_category(raw_cat: str) -> str:
     return _CAT_NORM.get(raw_cat.lower().strip(), raw_cat)
 
 
+_GUMMY_RE = re.compile(r'\bgumm(?:y|ies)\b', re.I)
+
+
+def _category_from_description(description: str, category: str) -> str:
+    """Sweed's own category tag is occasionally wrong at the source (dispensary
+    data-entry mistake in the POS) and we have no write access there to fix it.
+    Dosage language in the description ("5mg THC ... per Gummy") is a reliable
+    edibles signal even when the item is mistagged as vapes/flower/etc."""
+    if category != "edibles" and _GUMMY_RE.search(description or ""):
+        return "edibles"
+    return category
+
+
 def _sweed_post_body(page_num: int, page_size: int, category_id: int) -> dict:
     return {
         "filters": {"category": [category_id]},
@@ -155,6 +168,8 @@ def _normalize_sweed_product(raw: dict) -> dict | None:
     brand    = _str((raw.get("brand") or {}).get("name") or "")
     category = _norm_category(_str((raw.get("category") or {}).get("name") or
                                    (raw.get("productType") or {}).get("name") or ""))
+    description = _str(raw.get("description") or "")
+    category = _category_from_description(description, category)
 
     strain_info = raw.get("strain") or {}
     strain_raw  = _str((strain_info.get("prevalence") or {}).get("name") or "").title()
@@ -211,7 +226,7 @@ def _normalize_sweed_product(raw: dict) -> dict | None:
         "terpenes": terpenes, "effects": effects, "flavors": flavors,
         "weight": weight, "price": price, "price_tiers": price_tiers,
         "in_stock": in_stock, "image": image,
-        "description": _str(raw.get("description") or ""),
+        "description": description,
     }
 
 
