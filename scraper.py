@@ -218,8 +218,13 @@ def _normalize_sweed_product(raw: dict) -> dict | None:
 def _parse_sweed_response(data, force_category: str = "") -> list[dict]:
     """Extract and normalize products from a GetProductList API response.
 
-    force_category: when set, override the API's category name with this value
-    (avoids filtering failures when the API uses unexpected category names).
+    force_category: the category being queried for. Used ONLY as a fallback when
+    the item's own reported category is missing/unrecognized (e.g. the API uses an
+    unexpected category name). A per-category query can still return items that
+    belong to a different category (cross-sell widgets, imperfect server-side
+    filtering) — when the item reports its own valid category, that is trusted
+    over the query bucket, so a flower item returned while querying "vapes"
+    stays "flower" instead of being relabeled.
     """
     candidates: list = []
     if isinstance(data, list):
@@ -249,7 +254,7 @@ def _parse_sweed_response(data, force_category: str = "") -> list[dict]:
         p = _normalize_sweed_product(item)
         if not p:
             continue
-        if force_category:
+        if force_category and p["category"].lower() not in TARGET_CATS:
             p["category"] = force_category
         if p["category"].lower() in TARGET_CATS:
             results.append(p)
