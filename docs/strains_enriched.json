@@ -2410,5 +2410,23 @@
       "just_happy": 6,
       "aphrodisiac": 5
     }
+  },
+  "sw226964": {
+    "lineage": "Not applicable — this is a cannabis-infused edible gummy, not a flower or vape strain. The 'Watermelon' refers to the flavor profile. Formula: 5mg THC + 2mg CBC per gummy, enhanced with Lion's Mane mushroom, L-Theanine, and Cordyceps mushroom. Produced by Relax brand.",
+    "therapeutic": "Mild stress relief, anxiety reduction, mental clarity support, mood elevation, immune support, cognitive function support (via Lion's Mane), relaxation without heavy sedation (via L-Theanine)",
+    "negative": "Mild dry mouth, possible drowsiness at higher servings, beginners should start with half a gummy (2.5mg THC), avoid combining with alcohol or other sedatives, CBC may amplify THC effects in sensitive individuals",
+    "aroma": "Each gummy delivers a sweet, juicy watermelon candy flavor with a light sugary finish. There is no notable cannabis aroma due to the edible format and vegan formulation.",
+    "misc": "At 5mg THC per gummy, this is considered a beginner-to-intermediate dose, ideal for microdosing throughout the day or early evening relaxation. The inclusion of CBC (cannabichromene) adds potential anti-inflammatory and mood-boosting entourage effects, while L-Theanine promotes calm focus and Lion's Mane and Cordyceps support cognitive and physical wellness. Best suited for consumers seeking a functional, wellness-forward edible experience rather than intense psychoactive effects.",
+    "mood_ratings": {
+      "wind_down": 5,
+      "deep_sleep": 4,
+      "anxiety_relief": 5,
+      "lift_up": 4,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 3
+    }
   }
 }
