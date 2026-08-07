@@ -2428,5 +2428,41 @@
       "just_happy": 5,
       "aphrodisiac": 3
     }
+  },
+  "sw449635": {
+    "lineage": "Grape Ape x Zkittlez (Campfire Cannabis); Grape Ape itself is a cross of Mendocino Purps x Skunk x Afghani, while Zkittlez descends from Grape Ape x Grapefruit (3rd Gen Family Seeds / Dying Breed Seeds)",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, muscle tension, mild pain management, appetite stimulation, social anxiety",
+    "negative": "Dry mouth, dry eyes, mild dizziness at higher doses, potential couch-lock if overconsumed, possible paranoia in THC-sensitive users",
+    "aroma": "A lush wave of sweet concord grape and mixed berry candy opens the nose, layered with zesty citrus and a whisper of ripe banana, before settling into a subtle earthy, peppery spice on the exhale that keeps the sweetness grounded and complex.",
+    "misc": "Bred under the Campfire Cannabis label, this cultivar sits at a approachable 19.1% THC, making it well-suited for intermediate consumers seeking balance without overwhelming potency. Visually striking buds present fluffy, dusty green calyxes with rich purple undertones, vivid orange pistils, and a generous frosting of white trichomes that signal its Zkittlez heritage. Best enjoyed in the late afternoon or early evening when its uplifting cerebral onset can transition naturally into smooth, easygoing physical relaxation without fully sedating the user.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw449615": {
+    "lineage": "Zkittlez x Gelato (Cookies Fam / Runtz brand collaboration, popularized by Yung LB and Nick Tengalia)",
+    "therapeutic": "Stress relief, anxiety reduction, insomnia, mild pain management, appetite stimulation, depression, mood disorders",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, couch-lock, dizziness in low-tolerance users, overconsumption may increase sedation",
+    "aroma": "A vibrant burst of sugary tropical candy and ripe citrus zest opens immediately, giving way to creamy berry sweetness reminiscent of a fruit punch bowl, anchored by a subtle earthy, pungent undertone that keeps it grounded and complex.",
+    "misc": "Runtz was created by the Cookies family and became a cultural phenomenon, winning the Leafly Strain of the Year in 2020 and achieving legendary status in both legal and legacy markets. At 17.3% THC this pre-roll sits on the moderate end for Runtz, making it approachable for intermediate consumers while still delivering its signature euphoric-to-sedative arc. Best enjoyed in the early evening or before bed, as the calming body relaxation tends to deepen over time — dense olive-green buds with purple hues, fiery orange pistils, and a heavy trichome frost are hallmarks of a well-grown Runtz phenotype.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 7,
+      "anxiety_relief": 6,
+      "lift_up": 4,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
   }
 }
