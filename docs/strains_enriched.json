@@ -2464,5 +2464,23 @@
       "just_happy": 6,
       "aphrodisiac": 5
     }
+  },
+  "sw451080": {
+    "lineage": "Blueberry (DJ Short) x Haze (Original Haze lineage, popularized by Mystic Seeds / Santa Cruz Seed Collective)",
+    "therapeutic": "Depression, stress, anxiety, fatigue, mild pain, lack of focus, mood disorders",
+    "negative": "Dry mouth, dry eyes, mild paranoia or anxiety at higher doses, occasional dizziness, may cause restlessness in THC-sensitive users",
+    "aroma": "A bright, sweet wave of fresh blueberry and ripe berry fruit opens first, followed by a soft floral earthiness and a subtle spiced vanilla undertone carried by linalool and bisabolol. The finish is gently herbal and piney, giving the overall nose a clean, lifted quality.",
+    "misc": "Blue Dream is one of the most iconic and widely recognized strains in the United States, originating in Santa Cruz, California and becoming a West Coast staple throughout the 2010s. At 14.4% THC this particular expression from Dizgo sits on the moderate end of the spectrum, making it approachable for newer consumers while still delivering meaningful euphoria and creative stimulation — ideal as a daytime or early-evening pre-roll. The rich terpene profile featuring myrcene, ocimene, and nerolidol alongside floral bisabolol and linalool suggests a smooth, well-rounded smoke with relaxing body ease balanced by the sativa-leaning cerebral uplift Blue Dream is celebrated for.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 7,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
