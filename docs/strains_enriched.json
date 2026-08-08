@@ -2518,5 +2518,23 @@
       "just_happy": 3,
       "aphrodisiac": 2
     }
+  },
+  "sw291255": {
+    "lineage": "Edible product by Minny Grown — not a cultivar with genetic lineage. Contains broad-spectrum or distillate-derived THC combined with CBG (Cannabigerol), a non-psychoactive minor cannabinoid. Peach-flavored vegan gummy format.",
+    "therapeutic": "Mood elevation, mild stress relief, mental clarity, focus support, fatigue, mild anxiety, inflammation (via CBG), potential neuroprotective benefits from CBG",
+    "negative": "Potential dry mouth, mild anxiety or paranoia at higher doses, drowsiness if sensitive to THC, delayed onset (30–90 min) may lead to overconsumption — start low, wait before redosing",
+    "aroma": "These gummies carry a bright, sun-ripened peach aroma with sweet floral undertones and a light sugary finish. The scent is cheerful and approachable, evoking fresh summer fruit rather than cannabis.",
+    "misc": "Minny Grown is a Minnesota-based cannabis brand focused on approachable, wellness-oriented products. At 5mg THC + 2.5mg CBG per gummy, this is a beginner-to-intermediate dose well-suited for daytime use — CBG is often described as the 'stem cell' cannabinoid and may amplify uplifting, focus-enhancing effects without added sedation. The 2:1 THC-to-CBG ratio is intentionally crafted for an energetic, clear-headed experience, making these ideal for social settings, creative tasks, or active daytime routines.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 3,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 3,
+      "just_happy": 3,
+      "aphrodisiac": 2
+    }
   }
 }
