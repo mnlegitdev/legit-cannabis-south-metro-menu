@@ -2572,5 +2572,23 @@
       "just_happy": 2,
       "aphrodisiac": 2
     }
+  },
+  "sw225501": {
+    "lineage": "Clementine-flavored CBD:THC balanced gummy edible by Minny Grown (So Superior line); not a flower strain — no genetic lineage applicable. Formulated as a 1:1 THC to CBD ratio product.",
+    "therapeutic": "Mild pain relief, anxiety reduction, stress management, inflammation, mood elevation, relaxation without heavy sedation",
+    "negative": "Possible dry mouth, drowsiness at multiple servings, mild dizziness in THC-sensitive individuals, delayed onset may tempt overconsumption — wait 60–90 minutes before redosing",
+    "aroma": "As a gummy edible, the flavor profile centers on bright, zesty clementine citrus with a sweet tangy orange peel finish. The taste is clean and fruit-forward, likely derived from natural or artificial clementine flavoring.",
+    "misc": "Each gummy contains 5mg THC and 5mg CBD, making this an ideal entry-level or microdosing option — the 1:1 ratio means the CBD moderates the psychoactive effects of THC, resulting in a gentler, more functional experience. Minny Grown is a Minnesota-based cannabis brand known for approachable, wellness-oriented products. Being vegan and gluten-free broadens accessibility; best used in the evening or on a relaxed afternoon, especially for newer consumers or those sensitive to THC.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 3,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 3,
+      "just_happy": 4,
+      "aphrodisiac": 2
+    }
   }
 }
