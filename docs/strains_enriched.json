@@ -2608,5 +2608,41 @@
       "just_happy": 5,
       "aphrodisiac": 4
     }
+  },
+  "sw295680": {
+    "lineage": "Animal Mints x Kush Mints (The Soap by Seed Junky Genetics / Kush Mints lineage traced to Seed Junky Genetics; Animal Mints = Animal Cookies x SinMint Cookies; Kush Mints = Animal Mints x Bubba Kush)",
+    "therapeutic": "Stress relief, anxiety management, mood elevation, mild pain relief, fatigue, creative blocks, mild depression, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, mild paranoia or anxiety at higher doses, possible dizziness for novice users, overconsumption may cause racing thoughts due to sativa dominance",
+    "aroma": "Sharp and invigorating, the aroma opens with a blast of cool mint and fuel-soaked diesel before softening into bright citrus zest and sweet woody pine. Underlying notes of spicy cheese and a faint floral earthiness add complexity and depth to this multidimensional nose.",
+    "misc": "The Soap is a celebrated cultivar from Seed Junky Genetics, known for its striking bag appeal — oversized mint-green nugs blanketed in golden-white trichomes with vivid orange pistils throughout. At 22.1% THC with a rich terpene stack led by Myrcene, Limonene, and Caryophyllene, this is a well-rounded sativa-leaning hybrid best suited for daytime or early evening use, particularly for creative work, social settings, or active pursuits. Consumers seeking an energetic, euphoric lift without heavy sedation will find this an excellent choice, though those sensitive to THC should start slow given the potency.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 7,
+      "anxiety_relief": 6,
+      "lift_up": 4,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw452188": {
+    "lineage": "Hi-Octane phenotype (likely Hi-Octane = OG Kush Breath x Jet Fuel Gelato lineage, with Purple Octane selected for purple expression and enhanced indica characteristics; exact breeder unconfirmed but consistent with modern OG/Gelato hybrid breeding)",
+    "therapeutic": "Insomnia, chronic pain, muscle tension, anxiety, stress relief, appetite stimulation, depression, restless legs",
+    "negative": "Dry mouth, dry eyes, couch-lock at higher doses, potential grogginess or next-day sedation, dizziness for low-tolerance users, not recommended before operating machinery or daytime responsibilities",
+    "aroma": "A bold and complex bouquet of sweet grape wine and ripe dark berries opens the nose, quickly followed by sharp spicy diesel fuel and cracked black pepper that add a savory, fuel-driven depth. A subtle floral earthiness from the linalool and bisabolol rounds out the finish, making the overall scent profile rich, intoxicating, and layered.",
+    "misc": "Purple Octane at 23.2% THC sits on the higher end of the potency spectrum, making it better suited for experienced consumers who have a tolerance to heavy indica-leaning hybrids. Campfire Cannabis presents this strain in dense, forest-green buds dressed in deep purple hues, vivid orange pistils, and a generous blanket of frosty trichomes that signal its resin-rich potency. Best consumed in the evening or nighttime hours given its gradual shift from euphoric uplift into deep, sedating full-body relaxation — newcomers should start with a small puff and pace accordingly.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 4,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
   }
 }
