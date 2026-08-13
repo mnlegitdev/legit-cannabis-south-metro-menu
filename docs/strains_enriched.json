@@ -2644,5 +2644,41 @@
       "just_happy": 6,
       "aphrodisiac": 5
     }
+  },
+  "sw454626": {
+    "lineage": "Chemdawg (Sour Diesel x OG Kush) x Fuel OG (Headband x Diesel) — ultimately tracing back to Chemdog, Northern Lights, Lemon Thai, Pakistani Kush, and Diesel genetics; produced by Unbound",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, mental fatigue, low-grade pain, headaches, mood elevation",
+    "negative": "Dry mouth, dry eyes, possible anxiety or paranoia at higher doses in THC-sensitive users, mild dizziness; not recommended for those prone to sativa-induced racing thoughts",
+    "aroma": "An assertive, fuel-forward blast of gasoline and sour diesel anchors the nose, layered with bright lemon zest, fresh pine resin, and a subtle earthy hoppiness that rounds out the sharp chemical edge.",
+    "misc": "Fuel Dog is a sativa-dominant hybrid (70/30) from Unbound that sits at a moderate 18.2% THC, making it approachable for intermediate consumers while still delivering a punchy, functional experience. Buds typically display dense, medium-sized nugs with a frosty trichome coating, amber pistils, and a deep green base reflective of its heavy Chemdawg and Diesel heritage. Best consumed during daytime or early evening for creative focus, social activity, or unwinding from stress without heavy sedation; the myrcene and linalool terpene pairing tempers the sativa edge with light body relaxation, preventing the experience from feeling overwhelmingly racy.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 5,
+      "lift_up": 3,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw454614": {
+    "lineage": "Ice Cream Cake x Grape Cream Cake (Unbound / likely bred in the tradition of Seed Junky Genetics / Cannarado Genetics lineage — Ice Cream Cake: Wedding Cake x Gelato 33; Grape Cream Cake: Grape Pie x Ice Cream Cake)",
+    "therapeutic": "Insomnia, chronic stress, anxiety, mild to moderate pain relief, appetite stimulation, muscle tension",
+    "negative": "Dry mouth, dry eyes, potential couch-lock at higher doses, dizziness or lightheadedness in low-tolerance users, may cause sedation unsuitable for daytime use",
+    "aroma": "Purple Ice Water greets the nose with a lush wave of sweet grape candy and creamy vanilla, underscored by a subtle earthy musk reminiscent of fresh berries and baked dough. A faint citrus brightness lifts the bouquet just enough to keep the dessert-forward profile feeling fresh rather than cloying.",
+    "misc": "Purple Ice Water is an indica-dominant hybrid born from two powerhouse dessert strains, resulting in dense, frost-encrusted buds with deep purple hues and a generous trichome coating that reflects its Gelato and Grape Pie heritage. At 16.8% THC it sits in a moderate-to-accessible range, making it suitable for intermediate consumers seeking relaxation without overwhelming potency. Best consumed in the evening or before bed, this pre-roll is ideal for users looking to decompress, ease tension, and transition smoothly into restful sleep.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 2,
+      "get_social": 4,
+      "pain_body": 6,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
