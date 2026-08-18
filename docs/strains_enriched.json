@@ -17,24 +17,6 @@
       "deep_sleep": 8
     }
   },
-  "9bd115b860af": {
-    "lineage": "Alien Cookies x Kush Mints #11 (Capulator / Cap Junky Genetics)",
-    "therapeutic": "Stress, anxiety, depression, chronic pain, appetite stimulation",
-    "negative": "Dry mouth, dry eyes, possible paranoia in sensitive users at high doses",
-    "aroma": "Pungent fuel and diesel, sweet pine, cooling menthol, spiced earth, faint fruity finish",
-    "misc": "Bred by renowned breeder Capulator (creator of MAC). Often cited as one of the best modern hybrids. THC 22–30%+. Fast-hitting cerebral rush followed by warm body relaxation. Popular in dispensaries nationwide for consistent potency and terpene expression.",
-    "mood_ratings": {
-      "wind_down": 6,
-      "anxiety_relief": 8,
-      "lift_up": 5,
-      "get_creative": 3,
-      "get_social": 5,
-      "pain_body": 5,
-      "just_happy": 7,
-      "aphrodisiac": 7,
-      "deep_sleep": 8
-    }
-  },
   "8ddb5a864d39": {
     "lineage": "Purple Panty Dropper x Blueberry (Humboldt Seed Co.)",
     "therapeutic": "Stress, anxiety, mild pain, insomnia, depression, appetite",
@@ -2715,6 +2697,60 @@
       "pain_body": 5,
       "just_happy": 5,
       "aphrodisiac": 4
+    }
+  },
+  "sw291861": {
+    "lineage": "Alien Cookies x Kush Mints #11 (Capulator / Cap Junky Genetics)",
+    "therapeutic": "Stress, anxiety, depression, chronic pain, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, possible paranoia in sensitive users at high doses",
+    "aroma": "Pungent fuel and diesel, sweet pine, cooling menthol, spiced earth, faint fruity finish",
+    "misc": "Bred by renowned breeder Capulator (creator of MAC). Often cited as one of the best modern hybrids. THC 22–30%+. Fast-hitting cerebral rush followed by warm body relaxation. Popular in dispensaries nationwide for consistent potency and terpene expression.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 7,
+      "deep_sleep": 8
+    }
+  },
+  "sw291860": {
+    "lineage": "Gelato phenotype (Sunset Sherbet x Thin Mint Girl Scout Cookies) — sativa-leaning pheno selection, likely developed or curated by Campfire Cannabis",
+    "therapeutic": "Stress relief, depression, fatigue, mood elevation, appetite stimulation, mild anxiety relief, ADHD focus support",
+    "negative": "Dry mouth, dry eyes, mild paranoia or anxiety at high doses due to elevated THC (28.8%), potential dizziness for low-tolerance users, overconsumption may lead to racing thoughts",
+    "aroma": "A lush, candy-sweet bouquet of ripe guava, tropical citrus, and creamy berries greets the nose first, layered beneath with a sharp sour citrus zing and a soft diesel undercurrent. On the exhale, subtle spice and a light gassy edge round out the profile, leaving a bright, fruit-forward impression that lingers.",
+    "misc": "Guava is a curated sativa-leaning phenotype of Gelato offered by Campfire Cannabis, expressing the sweeter, more energetic side of the Gelato family rather than its typically sedating indica tendencies. At 28.8% THC, this is a high-potency offering best suited for experienced consumers or those with a moderate-to-high tolerance, and is ideally consumed during daytime or early afternoon hours for productivity, creative projects, or social settings. Heart-shaped olive-green buds with vivid orange pistils and a heavy trichome frost make this a visually striking flower that reflects its premium pheno-hunting origins.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 6,
+      "lift_up": 4,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw460367": {
+    "lineage": "MAC (Miracle Alien Cookies) x Grape Stomper (Grape Ape x Chemdawg Sour Diesel) — MAC bred by Capulator; MAC Stomper cross attributed to small-batch breeders within the craft cannabis community",
+    "therapeutic": "Insomnia, stress relief, anxiety, mild chronic pain, mood disorders, appetite stimulation, muscle tension",
+    "negative": "Dry mouth, dry eyes, potential couch-lock at higher doses, mild dizziness for low-tolerance users, overconsumption may increase sedation beyond desired effect",
+    "aroma": "A lush, grape-forward bouquet opens with rich dark fruit and spicy Concord grape, layered over fresh mixed berries and a bright sour lemon zing that cuts through the sweetness. Earthy floral undertones from linalool and hints of resinous pine round out the nose, giving it a complex, almost dessert-like depth.",
+    "misc": "MAC Stomper is a craft hybrid leaning indica-dominant in effect despite its hybrid classification, making it best suited for evening or nighttime use when relaxation and sleep support are desired. At 22.2% THC, it sits in a solid mid-to-high potency range ideal for intermediate consumers; novice users should approach with caution given its gradual but pronounced sedative finish. Rounded olive-green buds with striking purple accents, vivid orange pistils, and a dense coat of purple-tinted trichomes make this a visually impressive flower that reflects its premium genetic heritage.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 4,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 7,
+      "aphrodisiac": 6
     }
   }
 }
