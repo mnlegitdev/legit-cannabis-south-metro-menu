@@ -2770,5 +2770,41 @@
       "just_happy": 7,
       "aphrodisiac": 6
     }
+  },
+  "sw462448": {
+    "lineage": "Blackberry x (Dead Head OG or OG Kush) — likely a cross involving a Blackberry phenotype (derived from Black Domina x Raspberry Cough lineage) bred with either Dead Head OG (Chemdawg 91 x SFV OG Kush) or classic OG Kush (Hindu Kush x Chemdawg); produced by Nineteen Pines, specific breeder origin unconfirmed",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, chronic pain, muscle tension, insomnia (late-stage), appetite stimulation, headaches",
+    "negative": "Dry mouth, dry eyes, potential dizziness or mild paranoia at higher doses, drowsiness or couch-lock with heavy consumption, not recommended for daytime productivity tasks",
+    "aroma": "Frostberry Fuel opens with a lush wave of sugary blackberry and ripe mixed berries, undercut almost immediately by a sharp, petroleum-forward diesel funk and a skunky gas edge. Secondary notes of fresh pine, light citrus zest, and subtle floral earthiness round out a complex, resin-forward bouquet that lingers on the palate.",
+    "misc": "Nineteen Pines is known for cultivating small-batch, trichome-heavy cultivars, and Frostberry Fuel exemplifies this with visually striking buds coated in a thick frost of milky-to-amber trichomes, deep green calyxes, and occasional purple hues from its Blackberry heritage. At 18.2% THC this is a moderate-to-solid potency strain well-suited for intermediate consumers seeking balance between mental engagement and body relief. Best consumed in the late afternoon or evening when the gradually deepening indica relaxation can be fully appreciated without interfering with daytime obligations.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw462450": {
+    "lineage": "Unknown Purple strain (likely Purple Urkle or Granddaddy Purple lineage) x Unknown Citrus strain with Californian (likely OG Kush or Lemon OG heritage) and Afghan landrace lines (Dizgo / exact breeder unknown)",
+    "therapeutic": "Stress relief, mild anxiety, muscle tension, insomnia, mood disorders, mild pain management, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, possible dizziness or mild paranoia at higher doses, couch-lock with extended use, sedation may impair daytime productivity",
+    "aroma": "A vibrant burst of sweet lemon zest and fresh citrus peel leads the nose, layered beneath with earthy grape, berry sweetness, and a subtle floral violet undertone. A light kushy Afghan earthiness rounds out the finish, giving it a grounded, candy-like complexity.",
+    "misc": "Purple Lemonade is an indica-dominant hybrid known for its visually stunning violet-purple buds dusted in trichomes with bright orange pistils, making it as eye-catching as it is effective. At 14.7% THC, this is a moderate-strength option well-suited for beginners or consumers seeking relaxation without overwhelming sedation. Best consumed in the evening or late afternoon, this strain transitions beautifully from an uplifting euphoric onset into a warm, melting body relaxation — ideal for unwinding after a long day.",
+    "mood_ratings": {
+      "wind_down": 5,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
   }
 }
