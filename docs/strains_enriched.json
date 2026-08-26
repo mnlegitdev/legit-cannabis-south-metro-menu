@@ -53,24 +53,6 @@
       "deep_sleep": 4
     }
   },
-  "265b210f94fe": {
-    "lineage": "Zkittlez x Gelato (Cookies Fam / Runtz brand)",
-    "therapeutic": "Stress, anxiety, depression, chronic pain, appetite stimulation",
-    "negative": "Dry mouth, dry eyes, possible sedation at high doses",
-    "aroma": "Tropical candy sweetness, pineapple citrus, fruity Zkittlez notes, creamy Gelato undertone, light spice on exhale",
-    "misc": "Bred by the Cookies Fam and widely regarded as one of the most influential strains of the 2020s. Named after the candy brand for its intense sweetness. THC 18–25%. Dense colorful buds. Rapid-hitting, well-balanced — euphoric head high paired with full-body relaxation. Nearly universally well-received.",
-    "mood_ratings": {
-      "wind_down": 8,
-      "anxiety_relief": 4,
-      "lift_up": 6,
-      "get_creative": 3,
-      "get_social": 6,
-      "pain_body": 5,
-      "just_happy": 5,
-      "aphrodisiac": 4,
-      "deep_sleep": 4
-    }
-  },
   "4b794faff189": {
     "lineage": "GG4 (Gorilla Glue #4) x Jokerz (Compound Genetics)",
     "therapeutic": "Chronic pain, stress, inflammation, PTSD, insomnia",
@@ -2805,6 +2787,24 @@
       "pain_body": 4,
       "just_happy": 4,
       "aphrodisiac": 3
+    }
+  },
+  "sw242117": {
+    "lineage": "Zkittlez x Gelato (Cookies Fam / Runtz brand)",
+    "therapeutic": "Stress, anxiety, depression, chronic pain, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, possible sedation at high doses",
+    "aroma": "Tropical candy sweetness, pineapple citrus, fruity Zkittlez notes, creamy Gelato undertone, light spice on exhale",
+    "misc": "Bred by the Cookies Fam and widely regarded as one of the most influential strains of the 2020s. Named after the candy brand for its intense sweetness. THC 18–25%. Dense colorful buds. Rapid-hitting, well-balanced — euphoric head high paired with full-body relaxation. Nearly universally well-received.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 3,
+      "get_social": 6,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4,
+      "deep_sleep": 4
     }
   }
 }
