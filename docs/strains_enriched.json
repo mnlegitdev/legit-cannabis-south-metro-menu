@@ -2812,7 +2812,18 @@
     "therapeutic": "Chronic pain, insomnia, stress, anxiety, appetite stimulation, muscle tension, depression",
     "negative": "Dry mouth, dry eyes, potential couch-lock at higher doses, mild dizziness or paranoia in THC-sensitive users, heavy sedation may impair alertness",
     "aroma": "A complex, layered nose that opens with pungent diesel fuel and damp earth courtesy of its High Octane OG heritage, then softens into creamy vanilla and sweet cake batter from the Wedding Cake parentage. Subtle hints of mint and spice round out the profile, giving it an intriguing contrast between sharp fuel and dessert-like sweetness.",
-    "misc": "Octane Mintz is an indica-dominant hybrid (70/30) carrying a moderate THC level of 16.1%, making it approachable for intermediate consumers while still delivering meaningful body relaxation and euphoria. Buds are typically dense and resinous with deep green hues, amber pistils, and a generous frosting of trichomes reflecting its Wedding Cake lineage. Best consumed in the evening or nighttime given its sedating and appetite-stimulating effects; newer consumers should start with a small dose to avoid overconsumption-related drowsiness."
+    "misc": "Octane Mintz is an indica-dominant hybrid (70/30) carrying a moderate THC level of 16.1%, making it approachable for intermediate consumers while still delivering meaningful body relaxation and euphoria. Buds are typically dense and resinous with deep green hues, amber pistils, and a generous frosting of trichomes reflecting its Wedding Cake lineage. Best consumed in the evening or nighttime given its sedating and appetite-stimulating effects; newer consumers should start with a small dose to avoid overconsumption-related drowsiness.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
   },
   "sw477146": {
     "lineage": "Killer Queen x Cindy-99 x Ice Cream Cake (Killer Queen itself is G13 x Cinderella 99; Ice Cream Cake is Wedding Cake x Gelato #33) — bred by Trailhead Cannabis Company",
