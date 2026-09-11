@@ -3094,5 +3094,59 @@
       "just_happy": 3,
       "aphrodisiac": 2
     }
+  },
+  "sw511181": {
+    "lineage": "GMO (Garlic Mushroom Onions) x Han Solo Burger; GMO is a cross of Girl Scout Cookies x Chemdog, while Han Solo Burger is Forum Cut GSC x Larry OG; overall lineage traces back through GSC, OG Kush, Chemdog, and Lemon OG genetics. Donny Burger was developed and popularized by Skunk House Genetics.",
+    "therapeutic": "Chronic pain, muscle tension, stress relief, anxiety reduction, appetite stimulation, insomnia, depression, nausea",
+    "negative": "Dry mouth, dry eyes, couch-lock at higher doses, possible paranoia or anxiety in THC-sensitive users, dizziness, heavy sedation with overconsumption; not recommended for first-time users due to potency",
+    "aroma": "Donny Burger hits the nose with an aggressive wave of gassy, funky pungency layered over deep cheesy funk and savory garlic undertones, with a surprising backbone of black licorice and anise. Subtle sour citrus and damp earth round out the complex, diesel-forward bouquet that lingers long after the jar is opened.",
+    "misc": "Bred by Skunk House Genetics, Donny Burger typically tests between 22–28% THC, making it a heavy hitter suited for experienced consumers. Buds are characteristically oversized and dense, displaying vivid neon-green calyxes blanketed in golden-white trichomes with fiery orange pistils throughout. Best consumed in the evening or nighttime hours given its deeply relaxing and sedative body effects, though the initial euphoric and creative uplift makes it a versatile choice for unwinding after demanding days.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 5,
+      "lift_up": 3,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw511307": {
+    "lineage": "The Soap x Project 4516 (Campfire Cannabis); The Soap is derived from Animal Mints x MTF (Motafly), while Project 4516 is a proprietary breeding project with reported OG Kush and Chemdog ancestry",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, muscle tension, insomnia (early onset), mood elevation, chronic fatigue",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, potential couch-lock with heavy consumption, dizziness in low-tolerance users",
+    "aroma": "Bubble Bath opens with a clean, soapy floral sweetness from linalool — reminiscent of lavender-scented bath products — layered over bright citrus zest and a grounding earthy spice. On the exhale, subtle herbal and hoppy undertones from humulene add complexity and depth.",
+    "misc": "Crafted by Campfire Cannabis, Bubble Bath is an indica-leaning hybrid sitting at 20.2% THC, making it approachable for intermediate consumers while still delivering notable potency. Buds are typically dense and frosty with violet-green hues and a generous trichome coating consistent with its Animal Mints heritage. Best enjoyed in the early evening when relaxation is desired but full sedation is not, striking a balance between mental clarity and physical calm.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 4,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 6
+    }
+  },
+  "sw511195": {
+    "lineage": "Do-Si-Dos x Purple Punch (In House Genetics) — Do-Si-Dos itself descends from Girl Scout Cookies x Face Off OG, while Purple Punch derives from Larry OG x Granddaddy Purple; 60/40 Indica-dominant Hybrid",
+    "therapeutic": "Stress relief, chronic pain, muscle tension, insomnia, appetite stimulation, anxiety reduction, nausea",
+    "negative": "Dry mouth, dry eyes, couch-lock at high doses, potential dizziness or paranoia for THC-sensitive users, heavy sedation — not recommended for daytime use or tasks requiring focus",
+    "aroma": "Slurricane fills the senses with a lush, candy-sweet bouquet of dark grape, ripe mixed berries, and tropical fruit, underpinned by a subtle earthy and herbal spice. The limonene adds a faint citrus brightness that lifts the profile, while humulene contributes a grounding, slightly woody depth.",
+    "misc": "Slurricane was bred by In House Genetics and has gained significant recognition in the cannabis community for its potent relaxing effects and dessert-like flavor profile, earning placements in multiple Cannabis Cup competitions. At 79.3% THC in this vape formulation, it far exceeds the typical flower range of 20–28% THC, making it best suited for experienced consumers with high tolerance. This is an ideal evening or nighttime strain — consume when your schedule is clear, as the slow-building body high and sofa-lock effect can be deeply sedating and long-lasting.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 4,
+      "lift_up": 7,
+      "get_creative": 3,
+      "get_social": 6,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 5
+    }
   }
 }
