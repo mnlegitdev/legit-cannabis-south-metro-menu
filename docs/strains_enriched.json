@@ -3244,6 +3244,17 @@
     "therapeutic": "Chronic pain, muscle tension, insomnia, stress relief, appetite stimulation, anxiety reduction",
     "negative": "Dry mouth, dry eyes, heavy sedation, couch-lock, potential dizziness or paranoia in low-tolerance users, not recommended for daytime productivity",
     "aroma": "A deeply pungent and funky bouquet of garlic, diesel fuel, and savory meat notes inherited from the GMO lineage, layered with sweet vanilla candy and caramel undertones from the Mendo Breath parentage. The overall scent is an intriguing and complex contrast of savory funk meeting dessert-like sweetness.",
-    "misc": "Burger Breath is a Skunk House Genetics-associated cross that typically tests between 24–30% THC in flower form, though this pre-roll is listed at 0% THC which likely reflects a hemp or CBD-compliant product. Buds are typically dense, chunky, and forest green with heavy trichome coverage and amber pistils, making them visually striking. Best consumed in the evening or nighttime due to its deeply relaxing, body-heavy indica-dominant effects; new consumers should approach with caution given the strain's typically potent sedative profile."
+    "misc": "Burger Breath is a Skunk House Genetics-associated cross that typically tests between 24–30% THC in flower form, though this pre-roll is listed at 0% THC which likely reflects a hemp or CBD-compliant product. Buds are typically dense, chunky, and forest green with heavy trichome coverage and amber pistils, making them visually striking. Best consumed in the evening or nighttime due to its deeply relaxing, body-heavy indica-dominant effects; new consumers should approach with caution given the strain's typically potent sedative profile.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 4,
+      "lift_up": 2,
+      "get_creative": 2,
+      "get_social": 2,
+      "pain_body": 6,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
   }
 }
