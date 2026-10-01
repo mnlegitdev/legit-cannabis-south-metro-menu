@@ -123,7 +123,7 @@ def build():
 
     now     = datetime.now(CST)
     ts      = now.strftime("%a, %b %d %Y — %I:%M %p CST")
-    TARGET  = ("flower", "pre-roll", "vapes", "edibles")
+    TARGET  = ("flower", "pre-roll", "vapes", "edibles", "concentrates")
     all_p   = [(k,v) for k,v in db["products"].items()
                if v.get("in_stock", True) and (v.get("category","").lower() in TARGET)]
 
@@ -265,6 +265,7 @@ def build():
     body.dark [data-cat="pre-roll"] .section-title{{border-left:3px solid #fb923c;padding-left:12px}}
     body.dark [data-cat="vapes"] .section-title{{border-left:3px solid #38bdf8;padding-left:12px}}
     body.dark [data-cat="edibles"] .section-title{{border-left:3px solid #e879f9;padding-left:12px}}
+    body.dark [data-cat="concentrates"] .section-title{{border-left:3px solid #facc15;padding-left:12px}}
     .tab-count{{display:inline-block;background:#1e1e1e;color:#9ca3af;font-size:.65rem;font-weight:700;padding:1px 6px;border-radius:10px;margin-left:4px;vertical-align:middle;letter-spacing:0}}
     body.dark .tab.on .tab-count{{background:#0a2016;color:#4ade80}}
     .tabs-wrap .search-row{{padding:6px 24px 10px;border-top:1px solid #1e1e1e;max-width:640px}}
@@ -1034,7 +1035,7 @@ function openStaffGuide() {{
       <div class="sg-guide-section-title">📱 Using the Menu</div>
       <div class="sg-guide-card">
         <div class="sg-guide-card-head"><span class="sg-guide-card-icon">🗂️</span><span class="sg-guide-card-name">Category Tabs</span></div>
-        <div class="sg-guide-card-body">Tap <strong>Flower · Pre-Roll · Vapes · Edibles</strong> at the top to filter by type. Products added in the last 3 days show up under the <strong>✨ New Arrivals</strong> tab automatically.</div>
+        <div class="sg-guide-card-body">Tap <strong>Flower · Pre-Roll · Vapes · Edibles · Concentrates</strong> at the top to filter by type. Products added in the last 3 days show up under the <strong>✨ New Arrivals</strong> tab automatically.</div>
       </div>
       <div class="sg-guide-card">
         <div class="sg-guide-card-head"><span class="sg-guide-card-icon">🔍</span><span class="sg-guide-card-name">Search</span></div>

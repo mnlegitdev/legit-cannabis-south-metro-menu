@@ -23,7 +23,20 @@ MENU_URL     = f"https://{STORE_DOMAIN}/{STORE_SLUG}/menu"
 DATA_FILE    = Path(__file__).parent / "docs" / "products.json"
 CST          = timezone(timedelta(hours=-6))
 
-TARGET_CATS  = ("flower", "pre-roll", "vapes", "edibles")
+TARGET_CATS  = ("flower", "pre-roll", "vapes", "edibles", "concentrates")
+
+# Sweed rejects GetProductList with HTTP 400 unless the store id is sent as a
+# `storeid` HTTP header (a JSON-body storeId is not enough). Without it the direct
+# API "fails", we fall back to Playwright, and Playwright only sees the first page
+# (24 items) per category — in-stock products past #24 were dropped as "sold out".
+STORE_ID = 434
+
+import urllib.parse as _urlparse, json as _json
+_last_store = _urlparse.quote(_json.dumps({
+    "id": STORE_ID,
+    "url": f"https://{STORE_DOMAIN}/{STORE_SLUG}",
+    "routeName": f"/{STORE_SLUG}",
+}))
 
 HEADERS = {
     "User-Agent": (
@@ -31,9 +44,14 @@ HEADERS = {
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/124.0.0.0 Safari/537.36"
     ),
-    "Accept": "application/json, text/html, */*",
+    "Accept": "*/*",
     "Accept-Language": "en-US,en;q=0.9",
-    "Referer": f"https://{STORE_DOMAIN}/",
+    "Content-Type": "application/json",
+    "Origin": f"https://{STORE_DOMAIN}",
+    "Referer": f"https://{STORE_DOMAIN}/{STORE_SLUG}/menu",
+    "storeid": str(STORE_ID),
+    "ssr": "false",
+    "Cookie": f"last_store={_last_store}; swa_Common/isAgeChecked=true",
 }
 
 
@@ -109,6 +127,7 @@ SWEED_CATEGORIES = {
     "pre-roll": 5222,
     "edibles":  5223,
     "vapes":    5684,
+    "concentrates": 5251,
 }
 
 _WEIGHT_TO_TIER = {
@@ -132,6 +151,7 @@ _CAT_NORM = {
     "vape cartridges": "vapes", "cartridge": "vapes", "cartridges": "vapes",
     "disposable": "vapes", "disposables": "vapes",
     "edible": "edibles", "edibles": "edibles",
+    "concentrate": "concentrates", "concentrates": "concentrates",
 }
 
 def _norm_category(raw_cat: str) -> str:
@@ -294,14 +314,16 @@ def try_sweed_api() -> list[dict]:
                                  timeout=15)
                 if r.status_code != 200:
                     break
-                found = _parse_sweed_response(r.json(), force_category=cat_name)
-                if not found:
+                data  = r.json()
+                raw_n = len(data.get("list") or []) if isinstance(data, dict) else 0
+                found = _parse_sweed_response(data, force_category=cat_name)
+                if not raw_n:
                     break
                 any_success = True
                 for p in found:
                     all_products[product_key(p)] = p
                 log(f"Direct API [{cat_name}] page {page_num}: {len(found)} products")
-                if len(found) < 24:
+                if raw_n < 24:
                     break
                 page_num += 1
             except Exception:
@@ -495,6 +517,7 @@ CATEGORY_PAGE_URLS = {
     "pre-roll": f"{MENU_URL}/pre-rolls-{SWEED_CATEGORIES['pre-roll']}",
     "edibles":  f"{MENU_URL}/edibles-{SWEED_CATEGORIES['edibles']}",
     "vapes":    f"{MENU_URL}/vapes-{SWEED_CATEGORIES['vapes']}",
+    "concentrates": f"{MENU_URL}/concentrates-{SWEED_CATEGORIES['concentrates']}",
 }
 
 
