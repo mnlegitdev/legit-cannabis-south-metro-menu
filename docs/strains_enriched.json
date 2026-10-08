@@ -3706,5 +3706,41 @@
       "just_happy": 3,
       "aphrodisiac": 3
     }
+  },
+  "sw566325": {
+    "lineage": "OG Kush x Purple Afghani (likely derived from Cali Connection or similar West Coast breeding programs; Cherry Kush lineage traces to OG Kush crossed with Purple Afghani phenotypes, with some phenotypes linked to Purple Kush heritage)",
+    "therapeutic": "Insomnia, chronic pain, stress and anxiety relief, appetite stimulation, muscle tension, depression",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, pronounced couch-lock, dizziness in low-tolerance users, heavy sedation may impair daytime function",
+    "aroma": "Cherry Kush opens with a lush wave of sweet cherry and ripe berries underscored by a dank, earthy OG funk. Deeper notes of floral lavender (driven by Linalool) and a subtle spicy, woody undertone round out a complex and inviting bouquet.",
+    "misc": "Cherry Kush is an indica-dominant hybrid bred from the legendary OG Kush and a purple Afghani landrace, producing dense, resin-coated buds with vivid green hues and purple undertones beneath a heavy trichome frost, consistent with its reported 19.8% THC content which sits comfortably within its typical 18–22% range. The Linalool-forward terpene profile amplifies its sedative and anxiolytic qualities, making this strain best reserved for evening or nighttime use when deep relaxation and sleep are the goal. Consumers new to indica-dominant strains should start with a small puff and wait, as the euphoric onset can give way to a fast-moving body sedation that may catch lighter users off guard.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 4,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 7,
+      "aphrodisiac": 6
+    }
+  },
+  "sw566331": {
+    "lineage": "Mixed Strains (multiple cultivars blended into a single live rosin product — likely a curated mix of fruity hybrid cultivars such as Zkittlez, Runtz, Gelato, or similar fruit-forward genetics; specific cultivar selection varies by batch and producer)",
+    "therapeutic": "Stress relief, mild pain management, mood elevation, appetite stimulation, anxiety reduction, fatigue",
+    "negative": "Dry mouth, dry eyes, potential anxiety or paranoia at high doses, dizziness, short-term memory impairment — use caution given elevated 71.9% THC potency",
+    "aroma": "A vibrant, candy-forward medley of tropical fruits, ripe berries, and citrus zest, with a smooth undertone of sweet cream and fresh-pressed plant terpenes characteristic of live rosin. The aroma is bright and aromatic, capturing the full-spectrum freshness of flash-frozen source material.",
+    "misc": "Dizgo's Mixed Fruit Live Rosin is a solventless concentrate made via ice-water extraction and heat-pressing of fresh-frozen mixed hybrid cultivars, preserving a rich terpene and cannabinoid profile without chemical solvents. At 71.9% THC, this is a potent product best suited for experienced consumers — newcomers should start with micro-doses (one to two second pulls) and wait several minutes before redosing. Best enjoyed during afternoon or evening hours when relaxation and creativity are desired, as the blended hybrid nature may lean either energizing or sedating depending on the batch's dominant cultivar profile.",
+    "mood_ratings": {
+      "wind_down": 5,
+      "deep_sleep": 3,
+      "anxiety_relief": 4,
+      "lift_up": 4,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
