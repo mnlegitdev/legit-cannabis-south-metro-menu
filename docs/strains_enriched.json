@@ -4228,5 +4228,59 @@
       "just_happy": 4,
       "aphrodisiac": 3
     }
+  },
+  "sw577131": {
+    "lineage": "Gelato phenotype (Gelato = Thin Mint Girl Scout Cookies x Sunset Sherbet) (Cookies Fam / Sherbinski)",
+    "therapeutic": "Stress relief, depression, fatigue, mild anxiety, appetite stimulation, mood elevation",
+    "negative": "Dry mouth, dry eyes, mild paranoia in sensitive users, potential for anxiousness at higher doses due to sativa-leaning profile",
+    "aroma": "A luscious wave of ripe guava and tropical citrus greets the nose first, layered over a sweet, creamy berry base reminiscent of its Gelato heritage. Underneath, subtle notes of spice and light fuel add depth and a gassy finish that keeps the profile complex and intriguing.",
+    "misc": "Guava is a sativa-expressive phenotype of the iconic Gelato line, popularized through the Cookies family of genetics, and typically tests in the 17–22% THC range. Heart-shaped olive-green buds are visually striking with vivid orange pistils and a heavy trichome frost that signals its potency. Best enjoyed during daytime or early evening social settings — ideal for creative projects, outdoor activities, or conversations — with its gradual onset making it approachable for intermediate consumers while still satisfying experienced users.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 3,
+      "anxiety_relief": 8,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 4,
+      "just_happy": 7,
+      "aphrodisiac": 7
+    }
+  },
+  "sw577153": {
+    "lineage": "Girl Scout Cookies (GSC) x Chemdog (also known as Chemdawg) — Chem Cookies is a cross bred within the broader Cookies Family / Chemdog lineage ecosystem",
+    "therapeutic": "Insomnia, chronic pain, stress, anxiety, appetite loss, muscle tension, depression",
+    "negative": "Dry mouth, dry eyes, dizziness, potential paranoia at higher doses, heavy couch-lock, grogginess upon waking if used as a sleep aid",
+    "aroma": "A pungent, fuel-forward nose hits first with sharp diesel and chemical earthiness inherited from Chemdog, followed by a sweet, doughy cookie richness and subtle notes of dark chocolate and pine. The exhale carries a skunky, kushy depth that lingers and can be quite cough-inducing, as the store description aptly notes.",
+    "misc": "Chem Cookies sits comfortably in the 18–24% THC range, making this 20.6% expression right in its wheelhouse. Buds typically present dense and chunky with deep green hues, amber pistils, and a frosty trichome coating reflective of its GSC heritage. Best consumed in the evening or nighttime given its heavily sedating, indica-leaning effects — this is a classic wind-down strain ideal for users seeking deep relaxation and sleep support.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 3
+    }
+  },
+  "sw577629": {
+    "lineage": "Kush Mintz x Alien Cookies (Capulator / Cap Cut)",
+    "therapeutic": "Stress relief, anxiety reduction, chronic pain, appetite stimulation, mild depression, muscle tension, fatigue",
+    "negative": "Dry mouth, dry eyes, potential paranoia or anxiety at high doses, mild dizziness, overconsumption risk due to high THC concentration in concentrate form",
+    "aroma": "A complex and captivating blend of fresh spearmint and cool menthol riding over a foundation of earthy pine and fuel-driven diesel, with subtle floral and sweet cookie dough notes emerging on the exhale. The nose is bright and refreshing yet grounded by deep gassy undertones that signal its potent Alien Cookies heritage.",
+    "misc": "Cap Junky is a highly sought-after cut bred by Capulator, the same breeder responsible for MAC (Miracle Alien Cookies), lending it serious credibility in the connoisseur market. As a cured concentrate from Stargaze, this product tests at 76.6% THC, making it best suited for experienced consumers — a small dab is recommended due to its fast-acting and intense onset. Ideal for late afternoon or evening use when relaxation and social euphoria are welcome, though its active body effect prevents heavy sedation, making it versatile for creative or social sessions as well.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 7,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
