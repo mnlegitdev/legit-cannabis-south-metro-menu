@@ -899,24 +899,6 @@
       "deep_sleep": 5
     }
   },
-  "a1d94f46edc0": {
-    "lineage": "Infused edible product — no specific strain lineage applicable. This is a manufactured cannabis edible by Nebula, dosed at 10mg THC per serving with 10 servings per bar (100mg total).",
-    "therapeutic": "Stress relief, mild to moderate pain management, appetite stimulation, sleep aid (at higher doses), anxiety reduction",
-    "negative": "Delayed onset (30–120 minutes) may lead to overconsumption; dry mouth, elevated heart rate, anxiety or paranoia if dose exceeded, couch-lock, impaired coordination and cognition, not recommended for first-time consumers without guidance",
-    "aroma": "As a gummy edible, this product carries a bright, tart green apple candy scent with a sugary-sweet finish. The aroma is artificially flavored, evoking crisp Granny Smith apple with minimal cannabis odor.",
-    "misc": "This is a 100mg THC edible bar by Nebula, broken into 10mg per-piece servings — a standard beginner-to-intermediate dose. New consumers should start with half a serving (5mg) and wait at least 90 minutes before redosing to assess tolerance. Experienced consumers may find 10–20mg appropriate; the THC percentage listed (101%) likely reflects concentration within the infused oil or extract used, not the product as a whole.",
-    "mood_ratings": {
-      "wind_down": 3,
-      "anxiety_relief": 3,
-      "lift_up": 3,
-      "get_creative": 3,
-      "get_social": 3,
-      "pain_body": 3,
-      "just_happy": 3,
-      "aphrodisiac": 3,
-      "deep_sleep": 2
-    }
-  },
   "487b0db2bda3": {
     "lineage": "Cannabis-infused edible product by Nebula; no specific strain lineage disclosed. Formulated with distillate or concentrate at 91.6% THC potency per extract used in production.",
     "therapeutic": "Stress relief, anxiety reduction, mild to moderate pain management, appetite stimulation, insomnia support, mood elevation",
@@ -4333,6 +4315,78 @@
       "get_creative": 4,
       "get_social": 4,
       "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw230616": {
+    "lineage": "Infused edible product — no specific strain lineage applicable. This is a manufactured cannabis edible by Nebula, dosed at 10mg THC per serving with 10 servings per bar (100mg total).",
+    "therapeutic": "Stress relief, mild to moderate pain management, appetite stimulation, sleep aid (at higher doses), anxiety reduction",
+    "negative": "Delayed onset (30–120 minutes) may lead to overconsumption; dry mouth, elevated heart rate, anxiety or paranoia if dose exceeded, couch-lock, impaired coordination and cognition, not recommended for first-time consumers without guidance",
+    "aroma": "As a gummy edible, this product carries a bright, tart green apple candy scent with a sugary-sweet finish. The aroma is artificially flavored, evoking crisp Granny Smith apple with minimal cannabis odor.",
+    "misc": "This is a 100mg THC edible bar by Nebula, broken into 10mg per-piece servings — a standard beginner-to-intermediate dose. New consumers should start with half a serving (5mg) and wait at least 90 minutes before redosing to assess tolerance. Experienced consumers may find 10–20mg appropriate; the THC percentage listed (101%) likely reflects concentration within the infused oil or extract used, not the product as a whole.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "anxiety_relief": 3,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 3,
+      "just_happy": 3,
+      "aphrodisiac": 3,
+      "deep_sleep": 2
+    }
+  },
+  "sw579098": {
+    "lineage": "Rainbow Sherbet x Pink Guava (Dark Heart Nursery / Deo Farms, popularized by Cookies Fam and crossbreeder Harold Whitebread)",
+    "therapeutic": "Stress relief, depression, anxiety, fatigue, mood elevation, mild pain management, creative blocks",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, occasional headache, may cause restlessness in THC-sensitive consumers",
+    "aroma": "Zoap bursts with a vibrant medley of sweet citrus, tropical guava, and fresh floral notes undercut by a creamy sherbet base. A subtle earthy musk lingers beneath the fruity brightness, giving the nose a well-rounded, candy-like complexity.",
+    "misc": "Zoap has gained significant traction as a Sativa-leaning hybrid known for its uplifting, euphoric head high that sparks creativity and sociability, making it ideal for daytime or early afternoon use. Buds typically present dense, medium-to-large structures with vivid green hues, occasional purple undertones, and a heavy coat of amber-tinted trichomes reflecting its rich resin production. At 20.6% THC, this batch sits within Zoap's typical range of 19–25%, offering a potent but manageable experience well-suited for intermediate consumers seeking functional, motivated energy without sedation.",
+    "mood_ratings": {
+      "wind_down": 4,
+      "deep_sleep": 3,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 4,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw579046": {
+    "lineage": "Triangle Kush x Gelato 41 (Cookies Fam / Connected Cannabis Co.)",
+    "therapeutic": "Stress relief, anxiety management, mild pain and muscle tension, mood elevation, appetite stimulation, fatigue",
+    "negative": "Dry mouth, dry eyes, potential dizziness or paranoia at high THC concentrations (78.9%), couch-lock if overconsumed, not recommended for low-tolerance users",
+    "aroma": "Gushers bursts with a luscious medley of tropical fruit, sweet grape, and sugary candy, underscored by a subtle earthy and creamy undertone. A faint sour citrus note lingers on the exhale, mimicking the iconic candy it's named after.",
+    "misc": "Originally bred within the Cookies Family ecosystem and popularized by Connected Cannabis Co., Gushers has become a staple hybrid celebrated for its dessert-like terpene profile typically dominated by Caryophyllene, Limonene, and Linalool. In flower form, THC typically ranges 20–25%, making this 78.9% vape concentrate a potent, highly refined extract ideal for experienced consumers. Best suited for late afternoon or evening use, this vape delivers fast-acting euphoria followed by a warm body melt — perfect for unwinding socially or settling into a relaxed evening without full sedation.",
+    "mood_ratings": {
+      "wind_down": 5,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
+  },
+  "sw579076": {
+    "lineage": "Likely derived from Peaches and Cream x Dream (Blue Dream phenotype) or a similar peach-forward hybrid cross; exact breeder lineage for Grasslandz's proprietary 'Peaches & Dream' not publicly confirmed, but consistent with Sweet Tooth or Georgia Peach genetics crossed with a Haze or Dream-lineage sativa",
+    "therapeutic": "Stress relief, depression, fatigue, mild anxiety, creative blocks, ADHD symptom management, mood elevation",
+    "negative": "Dry mouth, dry eyes, potential mild paranoia or racing thoughts at high doses due to elevated THC (78.7%), dizziness in low-tolerance users, not recommended for evening use or those sensitive to sativa-dominant effects",
+    "aroma": "A vibrant, sun-warmed bouquet of ripe golden peaches and nectarine dominates the nose, layered with delicate floral notes reminiscent of jasmine or peach blossom. Subtle sweet cream and a faint tropical undertone round out the profile, giving it an almost dessert-like, orchard-fresh character.",
+    "misc": "Produced by Grasslandz as a vape formulation with a notably high THC concentration of 78.7% and a modest CBD presence of 1.6%, suggesting a broad-spectrum or live resin-style extract designed to preserve terpene character. Best suited for daytime use — morning creative sessions, social outings, or active pursuits — given its clear-headed, energizing effect profile. Low-tolerance consumers should approach this product cautiously given the high THC content, starting with one to two short draws and waiting several minutes before re-dosing.",
+    "mood_ratings": {
+      "wind_down": 4,
+      "deep_sleep": 2,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 4,
+      "get_social": 4,
+      "pain_body": 3,
       "just_happy": 5,
       "aphrodisiac": 4
     }
