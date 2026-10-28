@@ -4408,5 +4408,41 @@
       "just_happy": 4,
       "aphrodisiac": 3
     }
+  },
+  "sw583535": {
+    "lineage": "Edible product — no strain-specific genetic lineage applicable. This is a pineapple-flavored THC gummy by Voyageur, not a flower-based strain.",
+    "therapeutic": "Stress relief, mild anxiety reduction, pain management, appetite stimulation, sleep aid at higher doses",
+    "negative": "Delayed onset may lead to overconsumption; dry mouth, increased heart rate, paranoia or anxiety if dose exceeded, impaired coordination, prolonged psychoactive effects compared to inhalation",
+    "aroma": "These gummies carry a sweet, tropical pineapple scent with bright citrus top notes and a sugary candy-like finish. The aroma is reminiscent of fresh pineapple chunks with a mild confectionery undertone.",
+    "misc": "Each gummy contains 10mg THC, making this pack ideal for both newer and experienced consumers who prefer precise, controlled dosing. Beginners should start with half a gummy (5mg) and wait a full 90–120 minutes before considering an additional dose, as edible onset varies significantly by individual metabolism and food intake. At 100mg total per pack, this is a versatile product suited for microdosing throughout the day or taking a full 10mg dose for deeper relaxation or sleep support.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 3,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 3,
+      "just_happy": 4,
+      "aphrodisiac": 2
+    }
+  },
+  "sw583539": {
+    "lineage": "N/A — Watermelon is a flavored cannabis edible gummy by Voyageur, not a flower strain. Genetic lineage is not applicable to this product format.",
+    "therapeutic": "Stress relief, mild to moderate pain management, anxiety reduction, sleep aid, appetite stimulation",
+    "negative": "Overconsumption risk if multiple gummies are taken too quickly, dry mouth, increased heart rate, anxiety or paranoia at high doses, delayed onset may lead to accidental overconsumption, not recommended for THC-naive users without medical guidance",
+    "aroma": "As an edible gummy, the sensory experience is taste-forward rather than aromatic — expect a sweet, juicy watermelon candy flavor with a sugary finish reminiscent of classic summer fruit confections. There is minimal cannabis aroma given the edible format.",
+    "misc": "Each gummy contains 10mg THC with 10 gummies per pack totaling 100mg — a standard, well-portioned dose suitable for intermediate consumers. Beginners should start with half a gummy (5mg) and wait 90–120 minutes before redosing, as edible onset can range from 30 minutes to 2 hours depending on metabolism and food intake. Best consumed in a relaxed evening setting; effects from edibles tend to be more body-heavy and longer-lasting (4–8 hours) compared to inhaled cannabis.",
+    "mood_ratings": {
+      "wind_down": 5,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
   }
 }
