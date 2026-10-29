@@ -4444,5 +4444,77 @@
       "just_happy": 4,
       "aphrodisiac": 3
     }
+  },
+  "sw584558": {
+    "lineage": "Blueberry (DJ Short) × Haze (Original Haze / Santa Cruz Haze)",
+    "therapeutic": "Stress relief, depression, anxiety, fatigue, mild pain, lack of focus, mood disorders",
+    "negative": "Dry mouth, dry eyes, occasional paranoia or anxiety at high doses, dizziness — particularly notable given the elevated 86.1% THC concentration in this vape formulation; novice users should dose cautiously",
+    "aroma": "A lush, sun-warmed blueberry sweetness leads the nose, layered with creamy vanilla undertones and a bright, earthy herbal backbone reminiscent of fresh pine and subtle florals. The Ocimene and Bisabolol contribute a delicate, almost perfume-like softness that rounds out the fruity top notes.",
+    "misc": "Blue Dream was popularized on the West Coast — particularly Northern California — and became one of the best-selling strains in the US legal market throughout the 2010s. At 86.1% THC, this Unbound vape is significantly more potent than flower-form Blue Dream, which typically tests between 17–24% THC, making it best suited for experienced consumers. Ideal for daytime or early afternoon use, it pairs well with creative work, social settings, or active outdoor activities where mental clarity and an uplifted mood are desired.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 5,
+      "lift_up": 3,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw583701": {
+    "lineage": "Trainwreck x Hawaiian (G13 Labs / popularized by Barney's Farm and various California breeders)",
+    "therapeutic": "Stress relief, depression, fatigue, mild pain, anxiety, mood elevation, creative block",
+    "negative": "Dry mouth, dry eyes, paranoia at high doses, mild headache, dizziness — particularly elevated risk at 82.8% THC vape concentration for low-tolerance users",
+    "aroma": "A vibrant burst of tropical sweetness leads with ripe pineapple and mango, grounded by fresh cedar and pine resin with a subtle floral-citrus finish. The terpene-rich profile leans bright and juicy with an earthy woody backbone that keeps it from being overly sweet.",
+    "misc": "Pineapple Express gained worldwide recognition after the 2008 Seth Rogen film of the same name, but the strain itself is a legitimate sativa-dominant hybrid with roots in Hawaiian landrace and Trainwreck genetics. At 82.8% THC in vape form, this is a potent concentrate best suited for experienced consumers — novice users should take single small puffs and wait several minutes before redosing. Best consumed during daytime or early afternoon for its energizing, creative, and uplifting effects; the strong myrcene and limonene presence makes it equally suited for social settings or focused creative work.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 6,
+      "lift_up": 4,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw584568": {
+    "lineage": "Skywalker (Blueberry x Mazar) x OG Kush (Chemdawg 91 x Lemon Thai x Pakistani Kush) — popularized by Dutch Passion and further developed by Darkhorse Genetics",
+    "therapeutic": "Insomnia, chronic pain, anxiety, stress, muscle spasms, appetite loss, depression",
+    "negative": "Dry mouth, dry eyes, couch-lock, dizziness at high doses, paranoia in THC-sensitive users, heavy sedation may impair daytime functioning",
+    "aroma": "A pungent, fuel-laced bouquet opens with sharp citrus and sweet blueberry notes before settling into a damp, earthy pine base with subtle hints of spice and hash. The myrcene-dominant profile gives it a distinctly herbal, musky depth that lingers on the exhale.",
+    "misc": "Skywalker OG is a heavily indica-leaning hybrid that typically tests between 20–30% THC in flower form, making this vape's 86.8% concentrate a potent, experienced-user product. At this THC concentration, even seasoned consumers should approach with low, controlled puffs to avoid overwhelming sedation. Best reserved for evening or nighttime use, this strain is widely recognized in dispensary culture as a go-to for sleep and end-of-day wind-down, and has appeared on numerous 'Top Indica' lists across major cannabis publications.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 6,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw587099": {
+    "lineage": "Sunset Sherbet x Thin Mint Girl Scout Cookies (Cookies Fam / Sherbinski collaboration); Sunset Sherbet is itself a cross of Girl Scout Cookies x Pink Panties, making Bacio Gelato a deeply Cookies-family rooted hybrid",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, appetite stimulation, mood elevation, creative blocks, fatigue",
+    "negative": "Dry mouth, dry eyes, possible anxiety or paranoia at high doses, dizziness, couch-lock with overconsumption; caution advised for THC-sensitive users given 82.8% concentrate potency",
+    "aroma": "Bacio Gelato offers a rich, dessert-forward bouquet of sweet cream, fresh mint, and ripe berries with earthy undertones and a subtle citrus brightness on the exhale. The linalool and myrcene backbone lend a floral, almost lavender-like depth that rounds out the sweetness with a grounding herbal complexity.",
+    "misc": "Bacio Gelato (Italian for 'kiss ice cream') is a celebrated Cookies Fam cultivar that gained significant popularity in California's premium flower market before becoming a widely replicated concentrate strain. In its flower form it typically tests between 22–28% THC, making this OMA vape at 82.8% a highly potent concentrate intended for experienced consumers; start with 1–2 short puffs and wait before redosing. Best suited for late afternoon or evening use when creativity and relaxation are desired without full sedation.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 7,
+      "anxiety_relief": 5,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 4
+    }
   }
 }
