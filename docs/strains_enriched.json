@@ -4588,5 +4588,41 @@
       "just_happy": 6,
       "aphrodisiac": 5
     }
+  },
+  "sw577417": {
+    "lineage": "Cherry Kush x (Lemon Tree Papaya x GMO) x FroDo (Minny Grown Cannabis)",
+    "therapeutic": "Stress relief, anxiety, mild depression, fatigue, lack of focus, mild pain and tension",
+    "negative": "Dry mouth, dry eyes, possible anxiety or paranoia at higher doses, mild dizziness in sensitive users",
+    "aroma": "Zesty Parm opens with a bold earthy spice and fresh woodland base, layered with bright citrus zest and a distinctive dank, savory cheese funk reminiscent of aged parmesan — complex, pungent, and immediately attention-grabbing.",
+    "misc": "Zesty Parm is a Minnesota-bred sativa-dominant hybrid by Minny Grown Cannabis, reflecting the state's emerging craft cannabis identity with a unique flavor-forward profile inspired by its cheesy, citrusy parentage. At 21.9% THC, this is a moderately potent cultivar well-suited for daytime or early evening use, ideal for creative tasks, social settings, or combating afternoon fatigue without heavy sedation. Consumers new to sativa-leaning hybrids should start with one or two puffs and pace accordingly, as the fast-acting cerebral onset can be intense for those with lower tolerance.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw577430": {
+    "lineage": "FrankenCakes x Lil Miss Hard Sauce (LilMissHS) — autoflowering hybrid developed by Minny Grown Cannabis; FrankenCakes is itself a dessert-leaning hybrid cross, while LilMissHS brings hard-hitting resin production and potency, with the combined lineage drawing on Jack Herer-influenced genetics to produce the characteristic helix-stacked cola structure",
+    "therapeutic": "Chronic pain, muscle tension, stress relief, anxiety reduction, mild insomnia, social anxiety, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, possible dizziness or mild paranoia at high doses due to 26% THC; couch-lock may occur with heavy consumption; not ideal for those sensitive to high-THC indica-leaning hybrids; novice users should start slow",
+    "aroma": "FrankenPine opens with a bold, forest-floor rush of fresh pine and rosemary that feels almost medicinal, quickly layered with bright citrus zest and a skunky, gassy undercurrent that keeps the nose intrigued. Subtle spice and damp earth round out the profile, giving it a savory, terpene-rich complexity that leans herbal and wild rather than sweet.",
+    "misc": "Bred and cultivated by Minny Grown Cannabis, a Minnesota-based craft operation known for quality autoflowering genetics tailored to northern growing conditions. With 26% THC driven by a Myrcene, Pinene, and Caryophyllene terpene profile, FrankenPine delivers a grounded body high with a sociable, calming edge — best suited for late afternoon or evening use when relaxation and mild social engagement are the goal. Consumers who enjoy pine-forward, savory strains like Jack Herer or Pineapple Express will find FrankenPine a satisfying, more indica-leaning counterpart.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 7,
+      "get_social": 3,
+      "pain_body": 6,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
   }
 }
