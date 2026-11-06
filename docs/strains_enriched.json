@@ -4768,5 +4768,59 @@
       "just_happy": 6,
       "aphrodisiac": 5
     }
+  },
+  "sw609616": {
+    "lineage": "Pineapple Fanta × Grape Gasoline — Pineapple Fanta is itself a tropical sativa-leaning hybrid; Grape Gasoline is a potent cross of Grape Pie × Jet Fuel Gelato, known for its pungent fuel-forward terpene profile. Produced by Unbound.",
+    "therapeutic": "Stress relief, depression, mood disorders, fatigue, mild anxiety, lack of motivation, low energy",
+    "negative": "Dry mouth, dry eyes, mild paranoia or racing thoughts at higher doses (especially in sativa-sensitive users), occasional headache",
+    "aroma": "An exuberant burst of ripe pineapple, mango, and citrus zest leads the nose, undercut by a sharp diesel and grape candy exhale that lingers on the palate. The contrast of sweet tropical fruit and gassy fuel gives it a distinctly bold, complex character.",
+    "misc": "Produced by Unbound, Hawaiian Fanta sits at approximately 19–22% THC, making it moderately potent and accessible for intermediate consumers. Buds are typically dense with a bright green hue, amber pistils, and a generous trichome coating that hints at its Grape Gasoline heritage. Best enjoyed during morning or early afternoon hours when its uplifting, motivating energy can be fully utilized without interfering with sleep; novice users should start low due to its sativa-driven cerebral intensity.",
+    "mood_ratings": {
+      "wind_down": 4,
+      "deep_sleep": 2,
+      "anxiety_relief": 4,
+      "lift_up": 4,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
+  },
+  "sw609644": {
+    "lineage": "Haze x Strawberry Fields (sometimes attributed to crosses involving Original Haze and Strawberry Cough genetics); popularized by several European breeders including Flying Dutchmen and Barney's Farm variants",
+    "therapeutic": "Depression, fatigue, stress, anxiety (mild), ADD/ADHD, mood disorders, creative blocks",
+    "negative": "Dry mouth, dry eyes, mild paranoia or racing thoughts at high doses, potential anxiety in THC-sensitive users, dizziness due to elevated THC concentration in vape form",
+    "aroma": "A bright, sun-warmed burst of ripe strawberries layered over classic Haze earthiness, with floral and citrus undertones that linger sweetly on the exhale. The nose carries a tangy, almost candy-like berry sweetness with a subtle spicy herbal backbone inherited from the Haze parentage.",
+    "misc": "At 83% THC, this vape concentrate is significantly more potent than flower form and is best suited for experienced consumers; new users should take single draws and wait before redosing. Strawberry Haze is a sativa-dominant hybrid known for energizing, cerebral effects that make it ideal for daytime use — mornings, creative projects, or social settings. The strain has earned recognition in the cannabis community largely through Barney's Farm's award-winning phenotype, which won multiple High Times Cannabis Cup accolades in the early 2010s.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 3,
+      "lift_up": 5,
+      "get_creative": 4,
+      "get_social": 4,
+      "pain_body": 3,
+      "just_happy": 5,
+      "aphrodisiac": 3
+    }
+  },
+  "sw609657": {
+    "lineage": "Purple Kush × Watermelon OG (Unbound; Purple Kush itself derives from Hindu Kush × Purple Afghani, while Watermelon OG is an indica-leaning hybrid believed to descend from OG Kush phenotype selections)",
+    "therapeutic": "Insomnia, chronic pain, muscle tension, appetite stimulation, anxiety relief, stress, nausea",
+    "negative": "Dry mouth, dry eyes, dizziness at high doses, strong sedation and couch-lock, potential paranoia in THC-sensitive users, overconsumption risk due to high 83.2% THC concentrate potency",
+    "aroma": "A lush, juicy burst of sweet watermelon candy leads the nose, layered beneath by earthy grape and berry notes inherited from the Purple Kush parentage. A subtle kushy, floral musk grounds the sweetness into a rounded, dessert-like finish.",
+    "misc": "At 83.2% THC, this Unbound vape cartridge is a potent concentrate best suited for experienced consumers; novice users should take single small puffs and wait several minutes before redosing. The underlying cultivar typically produces dense, purple-tinged buds coated in resinous trichomes with deep violet and green hues. Best consumed in the evening or nighttime hours given its heavily sedating, appetite-stimulating, and euphoric effects profile that tends to transition into full-body relaxation and sleep readiness.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 4,
+      "lift_up": 2,
+      "get_creative": 2,
+      "get_social": 2,
+      "pain_body": 5,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
   }
 }
