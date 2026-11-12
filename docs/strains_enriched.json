@@ -4984,5 +4984,41 @@
       "just_happy": 6,
       "aphrodisiac": 4
     }
+  },
+  "sw613201": {
+    "lineage": "Brazilian Sativa x South Indian Indica (Original breeder: Green House Seeds, Netherlands, early 1990s)",
+    "therapeutic": "Stress relief, depression, anxiety, fatigue, mild pain, mood disorders, creative blocks",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, possible headache with overconsumption, may increase anxiety in sensitive users",
+    "aroma": "A pungent earthiness opens first, layered with sharp pine resin and a subtle sweetness reminiscent of creamy vanilla and warm baking spice — think cardamom and clove with a damp woody base. The myrcene-forward profile gives it a slightly musky, herbal depth that lingers on the exhale.",
+    "misc": "White Widow is one of the most legendary and award-winning strains in cannabis history, having won the High Times Cannabis Cup in 1995 and becoming a staple of Amsterdam coffee shop menus worldwide. At 17.5% THC, this falls within the classic White Widow range of 16–20%, making it approachable for intermediate consumers while still delivering a balanced cerebral buzz backed by body relaxation. Buds typically present as dense, medium-sized nuggets heavily frosted with white trichomes — the namesake 'white widow' coating — with orange pistils peeking through; best consumed in the late afternoon or early evening for creative social sessions without heavy sedation.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 7,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
+  },
+  "sw613183": {
+    "lineage": "Edible product — genetic lineage not applicable. 'Groovy Pebbles' is a branded edible by Hiza Kyte Cannabis, likely inspired by Fruity Pebbles or similar candy-themed flavor profiles common in confection-style cannabis edibles.",
+    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, appetite stimulation, general relaxation",
+    "negative": "Note: A THC value of 208.8% is physically impossible and is almost certainly a labeling or data entry error — actual potency is unknown. Consumers should exercise extreme caution and start with a very low dose (2.5–5mg THC) until true potency is confirmed. Potential side effects include dry mouth, paranoia, dizziness, sedation, and overconsumption risk if dosing is miscalculated.",
+    "aroma": "Expect a sweet, candy-forward aroma reminiscent of fruity cereal and sugary confections, with bright citrus and berry notes typical of dessert-style edibles. The overall sensory profile is playful and approachable, leaning heavily into the nostalgic 'pebbles' candy theme.",
+    "misc": "Groovy Pebbles is a novelty-themed edible from Hiza Kyte Cannabis that appears to draw inspiration from cereal or candy aesthetics. The reported THC of 208.8% must be treated as a data error — consumers should contact the brand or retailer for verified lab COA (Certificate of Analysis) before consuming. Always start with the lowest possible dose for edibles, wait 90–120 minutes before redosing, and keep out of reach of children and pets.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 3,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 3,
+      "just_happy": 3,
+      "aphrodisiac": 3
+    }
   }
 }
