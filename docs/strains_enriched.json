@@ -5110,5 +5110,59 @@
       "just_happy": 4,
       "aphrodisiac": 3
     }
+  },
+  "sw612072": {
+    "lineage": "OGKB (OG Kush Breath) x Chemdawg derivative, likely phenotype selected from the Toad (also known as 'Toadstool') family; some sources suggest connection to Purple Punch x Chemdawg or similar heavy indica-leaning crosses. Exact breeder attribution varies by market.",
+    "therapeutic": "Chronic pain, muscle tension, stress relief, anxiety reduction, insomnia, appetite stimulation, inflammation",
+    "negative": "Dry mouth, dry eyes, potential couch-lock at higher doses, dizziness or paranoia in THC-sensitive users, heavy sedation if overconsumed",
+    "aroma": "An intensely pungent wall of diesel fuel and damp, dark earth greets the nose first, followed by sharp skunk, cracked black pepper, and a resinous herbal funk reminiscent of aged wood and hash. The overall aromatic profile is bold, complex, and unapologetically gassy with almost no sweetness to soften its edges.",
+    "misc": "Toad Venom is a heavy indica-leaning hybrid prized for its raw, rugged terpene profile dominated by Myrcene for sedation and earthy depth, Caryophyllene for spicy bite and anti-inflammatory properties, and Humulene for its savory herbal character. At 69.8% THC in live rosin form, this is a concentrate best suited for experienced consumers — ideal for evening or nighttime use when deep relaxation and creative introspection are desired. The live rosin format preserves the full-spectrum terpene integrity, delivering a richer, more nuanced expression of the strain compared to distillate-based vapes.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 2,
+      "get_creative": 2,
+      "get_social": 2,
+      "pain_body": 7,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
+  },
+  "sw612101": {
+    "lineage": "Likely Lemon OG x Wedding Cake or similar Lemon-forward hybrid cross; exact breeder unconfirmed, but profile aligns with crosses popularized in the California craft market, possibly connected to Archive Seed Bank or similar boutique breeders known for citrus-dominant genetics",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, mental fatigue, creative blocks, mild pain relief, mood elevation",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or anxiety at high doses due to elevated THC (71.2%) and terpinolene content, may cause dizziness in low-tolerance users",
+    "aroma": "An assertive blast of freshly grated lemon zest and tart citrus peel leads the nose, underscored by lemongrass, crushed green herbs, and a subtle diesel-funk earthiness. A faint peppery bite from caryophyllene adds a sophisticated edge, keeping the profile bright and complex rather than candy-sweet.",
+    "misc": "Avió's Lemon Yacht Club is a live rosin vape product, meaning the concentrate is solventless and cold-pressed from fresh-frozen flower, preserving a full and nuanced terpene profile. With 71.2% THC and a sativa-leaning hybrid classification, this product is best suited for daytime or early afternoon use when creativity, focus, and uplifted energy are desired. The dominant terpene trio of Limonene, Caryophyllene, and Terpinolene is a hallmark of energizing yet grounded sativa hybrids, and new or low-tolerance consumers should dose conservatively given the high cannabinoid concentration.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 4,
+      "lift_up": 8,
+      "get_creative": 5,
+      "get_social": 7,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 6
+    }
+  },
+  "sw612111": {
+    "lineage": "Strawberry Lemonade x Unknown Citrus Hybrid; likely derived from Strawberry Cough x Lemon OG or similar sativa-dominant parents. Some phenotypes trace back to Strawberry Fields x Lemonade (Cookies-adjacent breeding), though exact breeder lineage for this live rosin expression is proprietary to Avió.",
+    "therapeutic": "Stress relief, depression, fatigue, mild anxiety, mood elevation, creative blocks, social anxiety",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or racing thoughts at high doses due to elevated THC (74.3%) and sativa-dominant profile; not recommended for novice consumers in large quantities; may cause heightened anxiety in THC-sensitive individuals",
+    "aroma": "An intensely bright and juicy bouquet of sun-ripened strawberries and freshly zested lemon peel dominates the nose, underscored by a light floral sweetness. The live rosin extraction preserves a crisp, tart citrus effervescence with a subtle earthy-berry undertone courtesy of the myrcene base.",
+    "misc": "As a live rosin product, Avió's Strawberry Lemonade is solventless, cold-pressed from fresh-frozen cannabis to retain maximum terpene integrity — making the fruit-forward flavor profile exceptionally authentic to the living plant. At 74.3% THC, this is a potent option best suited for experienced consumers seeking a daytime or early-afternoon uplift for creative projects, social activities, or outdoor adventures. The dominant terpene trio of Myrcene, Limonene, and Caryophyllene synergistically supports mood elevation, stress reduction, and mild anti-inflammatory benefit.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 3,
+      "anxiety_relief": 4,
+      "lift_up": 7,
+      "get_creative": 3,
+      "get_social": 6,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
   }
 }
