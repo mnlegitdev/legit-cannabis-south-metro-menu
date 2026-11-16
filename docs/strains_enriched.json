@@ -5164,5 +5164,77 @@
       "just_happy": 6,
       "aphrodisiac": 5
     }
+  },
+  "sw621056": {
+    "lineage": "Exact genetics not publicly confirmed; likely a cross involving Diesel-dominant and citrus-forward hybrids, possibly rooted in OG Kush or Chemdawg lineage crossed with a Sativa-leaning variety such as Tangie or Super Lemon Haze — proprietary to Trailhead Cannabis Company",
+    "therapeutic": "Stress relief, anxiety management, mild depression, creative blocks, fatigue, mild pain and inflammation, social anxiety",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or anxiety at high doses in THC-sensitive users, mild dizziness with overconsumption",
+    "aroma": "Gastronaut greets the nose with a sharp, fuel-forward diesel blast that quickly gives way to bright zesty citrus — think lemon peel and orange rind — anchored by damp earth and subtle herbal undertones. The complexity deepens as the buds are broken apart, releasing a resinous, almost gassy sweetness that lingers in the air.",
+    "misc": "Produced by Trailhead Cannabis Company, Gastronaut sits at a robust 26.2% THC, making it best suited for intermediate to experienced consumers. Its dense, trichome-caked buds reflect the influence of its myrcene-dominant terpene profile, which tempers the cerebral lift of limonene and the spicy depth of caryophyllene into a balanced, well-rounded hybrid experience. Best enjoyed in the late morning or early afternoon when focus and creativity are desired without sacrificing evening functionality.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw621085": {
+    "lineage": "Granddaddy Purple x Sour Diesel (60% Indica / 40% Sativa hybrid; breeder not widely documented, likely developed by independent cultivators drawing on Ken Estes' GDP and East Coast Sour Diesel genetics)",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, appetite stimulation, mood elevation, fatigue, mild depression",
+    "negative": "Dry mouth, dry eyes, possible dizziness or headache at high doses, mild paranoia in THC-sensitive users, potential for couch-lock with heavy consumption despite hybrid classification",
+    "aroma": "A lush, layered bouquet of sweet concord grape and ripe red berry mingles with a sharp, fuel-forward diesel backbone, grounded by earthy dank and a subtle kick of black pepper and fresh herbs. The Caryophyllene and Pinene terpenes add a spicy, woodsy depth that keeps the sweetness from becoming cloying, making it both complex and immediately inviting.",
+    "misc": "At 75.8% THC, this live rosin extraction preserves the full terpene spectrum of the fresh-frozen plant material, delivering a notably clean and flavorful vapor experience. Daily Grape is best suited for late afternoon or early evening use — the initial cerebral lift from its Sour Diesel heritage transitions smoothly into a relaxed, body-heavy indica finish courtesy of Granddaddy Purple. Consumers new to high-potency concentrates should start with minimal draws, as the onset is rapid and the effects are pronounced.",
+    "mood_ratings": {
+      "wind_down": 4,
+      "deep_sleep": 2,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 8,
+      "get_social": 5,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 5
+    }
+  },
+  "sw621120": {
+    "lineage": "Kenobi x Rainbow Sherbet #11 (Trailhead Cannabis Company, Minnesota)",
+    "therapeutic": "Stress relief, mild anxiety, mood elevation, fatigue, mild pain management, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia at high doses due to elevated THC (74.9%), dizziness in low-tolerance users",
+    "aroma": "A vibrant blend of sweet citrus and tropical fruit from the Rainbow Sherbet #11 heritage, layered with earthy, musky pine undertones courtesy of the Myrcene and Pinene terpene profile. Limonene adds a bright lemony zest while Caryophyllene contributes a subtle spicy, peppery finish that rounds out the sweetness.",
+    "misc": "Trailside Sunset was among Trailhead Cannabis Company's inaugural cultivars brought from their flower rooms into the Minnesota adult-use market, reflecting the brand's commitment to small-batch, craft-quality production. As a live rosin vape, the solventless extraction preserves the full terpene profile, delivering a clean, flavorful experience that honors the strain's natural aromatic complexity. The balanced hybrid effects make this well-suited for late afternoon or early evening use — offering an energetic and happy lift that gradually eases into calm relaxation without heavy sedation, ideal for social settings or creative wind-down activities.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 7,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw621425": {
+    "lineage": "Chem's Sister x Sour Dubb x Chocolate Diesel (Original breeder: Joesy Whales and Lone Watie of GG Strains, formerly known as Gorilla Glue #4)",
+    "therapeutic": "Chronic pain, stress, anxiety, insomnia, appetite loss, muscle tension, depression",
+    "negative": "Dry mouth, dry eyes, heavy couch-lock, paranoia at high doses, dizziness, strong sedation may impair productivity",
+    "aroma": "An intense, dank wave of sour diesel and chemical funk anchors the nose, layered with earthy pine resin and subtle hints of dark chocolate and roasted coffee that linger long after the jar is opened.",
+    "misc": "GG4 (formerly Gorilla Glue #4) is one of the most decorated strains in modern cannabis history, taking first place at the 2014 Michigan and Los Angeles Cannabis Cups and the 2015 High Times Jamaican World Cup. As a concentrate at 66.2% THC from Trailhead Cannabis Company, this product is significantly more potent than flower form, which typically tests between 18-30% THC, and is strictly recommended for experienced consumers. Best used in evening or nighttime hours due to its deeply sedating, couch-locking effects; start with a very small dose and allow full onset before redosing.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 5,
+      "anxiety_relief": 4,
+      "lift_up": 5,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 6,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
