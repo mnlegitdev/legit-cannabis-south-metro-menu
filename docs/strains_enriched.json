@@ -5236,5 +5236,41 @@
       "just_happy": 5,
       "aphrodisiac": 4
     }
+  },
+  "sw622120": {
+    "lineage": "Blue Zushi x Zour Banana Sherbert; Blue Zushi is derived from Zkittlez x Kush Mints, while Zour Banana Sherbert traces back to Banana Sherbert x Sour strains, creating a complex indica-leaning hybrid lineage rooted in Zkittlez, Kush Mints, Banana OG, and Sherbert genetics (Float / independent breeders)",
+    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, mild pain and muscle tension relief, appetite stimulation, creative block, social anxiety",
+    "negative": "Dry mouth, dry eyes, possible mild dizziness or paranoia at higher doses, potential sedation with overconsumption given indica-leaning profile, not ideal for high-anxiety users sensitive to THC",
+    "aroma": "Zour Zushi opens with a sharp citrus-forward burst of lemon zest and sour tropical fruit, quickly giving way to creamy banana candy sweetness, cool herbal mint, and a faint diesel undertone that grounds the aroma with earthy depth. The overall nose is vibrant, juicy, and dessert-like with a clean piney finish.",
+    "misc": "At 14.6% THC this is a moderate-potency pre-roll well-suited for newer to intermediate consumers or those seeking functional daytime to early-evening use without heavy sedation. Buds of Zour Zushi typically display dense, frosty structure with purple-green hues and a heavy trichome coating reflective of its Zkittlez and Kush Mints heritage. The balanced terpene profile featuring Myrcene, Limonene, and Linalool makes this a solid choice for social settings, creative activities, or unwinding after work without full couch-lock.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 8,
+      "anxiety_relief": 5,
+      "lift_up": 4,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 4
+    }
+  },
+  "sw622143": {
+    "lineage": "Blue Nerdz x Sherb Cream Pie (Float / independent breeding project); Blue Nerdz is typically derived from Grape Nerdz and Blue Sherbet lineage, while Sherb Cream Pie descends from Sunset Sherbet x Wedding Cake (Girl Scout Cookies x Cherry Pie heritage)",
+    "therapeutic": "Stress relief, mild anxiety, muscle tension, low-grade pain, appetite stimulation, mood elevation, insomnia (onset)",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, potential couch-lock with prolonged use, drowsiness — not ideal for high-focus tasks",
+    "aroma": "A lush, candy-forward bouquet of ripe blueberries and grape sherbet melds with a creamy, vanilla-tinged sweetness before giving way to a sharp, gassy undercurrent and faint hints of citrus zest and fresh pine needles. The overall scent profile is dessert-like and inviting, reminiscent of a fruit-and-cream confection with a subtle fuel edge on the exhale.",
+    "misc": "At 15% THC this is an approachable indica-leaning hybrid well-suited for moderate consumers or those with lower tolerance, delivering a balanced body-and-head experience without overwhelming potency. Buds from this lineage typically present with deep purple and forest-green hues, dense trichome coverage, and vivid orange pistils consistent with its Sherbet and Cake heritage. Best consumed in the early evening or as a wind-down strain — the myrcene and linalool dominance promotes physical relaxation and mild sedation over time, making it a solid choice for stress relief after work or gentle social settings.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 8,
+      "anxiety_relief": 5,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
   }
 }
