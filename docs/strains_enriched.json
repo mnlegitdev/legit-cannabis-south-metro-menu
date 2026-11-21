@@ -5272,5 +5272,77 @@
       "just_happy": 5,
       "aphrodisiac": 4
     }
+  },
+  "sw621009": {
+    "lineage": "Likely derived from a cross involving candy-forward or sweet hybrid genetics, possibly in the lineage of Blue Candy or similar sweet Indica-leaning hybrids; exact breeder lineage for Nineteen Pines' 'Glacier Candy' is not widely documented in public strain databases, suggesting it may be a proprietary or house cultivar",
+    "therapeutic": "Anxiety relief, mild pain management, muscle tension, stress reduction, inflammation, insomnia (mild), mood elevation",
+    "negative": "Dry mouth, dry eyes, possible mild dizziness at higher doses; the lower THC percentage (12.9%) makes overconsumption less likely but sensitive users should still start slow; Humulene may trigger appetite suppression in some users",
+    "aroma": "Glacier Candy presents a soft, floral sweetness anchored by lavender and chamomile notes from its dominant Linalool terpene, layered with subtle earthy spice and a faint woody undertone from Caryophyllene and Humulene. A delicate, almost creamy sweetness rounds out the nose, lending it the candy-like character its name implies.",
+    "misc": "Nineteen Pines is known for cultivating approachable, terpene-forward flower with a focus on balanced effects rather than raw THC potency. Glacier Candy's moderate THC content of 12.9% and calming terpene profile — rich in Linalool and Bisabolol — make it an excellent choice for evening or late-afternoon use, particularly for consumers seeking relaxation without heavy sedation. Buds are likely dense with a frosty trichome coating consistent with the 'Glacier' branding, and this strain is well-suited for newer consumers or those sensitive to high-THC cultivars.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 4,
+      "anxiety_relief": 8,
+      "lift_up": 2,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 6
+    }
+  },
+  "sw623262": {
+    "lineage": "Edible product — no genetic lineage applicable. 'Lemon Lift' is a branded gummy formulation by Hiza Kyte Cannabis, not a cultivar with documented genetics.",
+    "therapeutic": "Stress relief, mild to moderate pain management, anxiety reduction, appetite stimulation, sleep aid (at higher doses), mood elevation",
+    "negative": "Delayed onset (30–120 minutes) may lead to overconsumption; dry mouth, dry eyes, paranoia or anxiety at high doses, impaired coordination, couch-lock, grogginess if taken late; not recommended for THC-naive users at full dose",
+    "aroma": "These gummies carry a bright, zesty lemon character — think fresh-squeezed citrus with a sugary candy sweetness underneath. The lemon profile is likely achieved through natural or artificial flavoring reminiscent of lemon drop candy or citrus hard candies.",
+    "misc": "Each gummy contains 10mg THC, a standard single serving per most regulatory guidelines — beginners should start with half a gummy (5mg) and wait at least 90 minutes before redosing. The package contains 20 gummies totaling 200mg THC, making it a moderate-to-high volume edible product suited for experienced consumers or those microdosing regularly. Note: the listed THC of 203.0% appears to be a data entry error reflecting the total package milligrams (200mg), not a percentage — always verify lab documentation before use.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 3,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 3,
+      "just_happy": 3,
+      "aphrodisiac": 3
+    }
+  },
+  "sw622145": {
+    "lineage": "Edible product — no strain-specific genetic lineage applicable. This is a infused chocolate bar by Legacy Cannabis, dosed at 10mg THC per serving across 20 servings for a total of 200mg THC per package.",
+    "therapeutic": "Stress relief, mild to moderate pain management, anxiety reduction, sleep aid (at higher doses), appetite stimulation, mood elevation",
+    "negative": "Delayed onset (30–120 minutes typical for edibles), overconsumption risk if dosing not respected, dry mouth, increased heart rate, anxiety or paranoia at high doses, prolonged intoxication (4–8 hours), not suitable for first-time users without guidance",
+    "aroma": "As a chocolate bar, expect rich cocoa and sweet banana bread aromatics — warm notes of ripe banana, brown butter, and baked spice layered beneath dark or milk chocolate. The cannabis infusion may contribute a mild earthy undertone.",
+    "misc": "This is a precisely dosed edible ideal for both new and experienced consumers — beginners should start with half a serving (5mg THC) and wait at least 90 minutes before redosing. The 10mg-per-serving format aligns with standard regulated market dosing guidelines. Store in a cool, dry place away from children, and be mindful that edible effects are significantly more intense and longer-lasting than inhalation methods.",
+    "mood_ratings": {
+      "wind_down": 5,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
+  },
+  "sw622149": {
+    "lineage": "Infused chocolate edible product — no specific strain lineage applicable. Contains cannabis-derived THC distillate or extract; genetic origin of source cannabis is undisclosed by Legacy Cannabis.",
+    "therapeutic": "Stress relief, anxiety reduction, mild to moderate pain management, appetite stimulation, insomnia support, general relaxation",
+    "negative": "Delayed onset (30–120 minutes) may lead to overconsumption if patient is not cautious; possible dry mouth, dry eyes, heightened anxiety or paranoia at high doses, sedation, dizziness, impaired coordination — especially in low-tolerance or first-time consumers",
+    "aroma": "As a chocolate edible, expect rich cocoa and warm cinnamon pastry aromas reminiscent of a freshly baked cinnamon roll, with subtle vanilla undertones. The cannabis flavor is typically masked by the confection profile, making it palatable and approachable.",
+    "misc": "This is a precisely dosed edible bar by Legacy Cannabis containing 200mg total THC across 20 equal 10mg servings — a standard beginner dose is 5–10mg; experienced users may take 10–20mg. Note: the listed '176.7% THC' appears to be a data entry error and should be interpreted as 200mg total package potency. New consumers should start with half a serving (5mg), wait at least 90 minutes before redosing, and consume with food to moderate absorption rate and onset intensity.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 3,
+      "lift_up": 2,
+      "get_creative": 2,
+      "get_social": 2,
+      "pain_body": 3,
+      "just_happy": 3,
+      "aphrodisiac": 2
+    }
   }
 }
