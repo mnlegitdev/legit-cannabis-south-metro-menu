@@ -5344,5 +5344,59 @@
       "just_happy": 3,
       "aphrodisiac": 2
     }
+  },
+  "sw627780": {
+    "lineage": "Cherry Kush x (Lemon Tree Papaya x GMO) x FroDo — a sativa-dominant hybrid developed with complex poly-hybrid genetics drawing from Cherry Kush's indica-leaning sweetness, the citrus-forward Lemon Tree Papaya cross, the pungent and gassy GMO (Garlic Cookies), and FroDo as the stabilizing sativa backbone (breeder attribution to Dizgo/associated breeders)",
+    "therapeutic": "Stress relief, mood elevation, mild anxiety, mental fatigue, depression, creative blocks, mild body tension",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or racing thoughts in THC-sensitive users, potential overconsumption risk due to potent cerebral onset — not recommended for novice users seeking sedation",
+    "aroma": "An assertive and complex nose opens with earthy herbal spice and dank peppery funk, quickly giving way to bright citrus zest and fresh pine resin with a lingering undercurrent of savory, garlicky cheese that ties the whole profile together in a uniquely bold way.",
+    "misc": "Zesty Parm is a craft hybrid from Dizgo built for daytime and early evening use, best suited for creative sessions, social settings, or productive focus tasks given its sativa-dominant cerebral lift. At 20.2% THC with a rich terpene stack led by Myrcene and Caryophyllene, it delivers both mental energy and gentle body ease without heavy sedation. The 3-pack format at 0.33g each is ideal for microdosing sessions or sharing, allowing consumers to control intake across multiple sittings.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 5,
+      "lift_up": 4,
+      "get_creative": 6,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 4
+    }
+  },
+  "sw627772": {
+    "lineage": "Fro'Do x Alaskan Yeti, then backcrossed with LilMissHS (Dizgo Genetics); Fro'Do is believed to descend from Froot Loops and Do-Si-Dos lineage, Alaskan Yeti carries heavy resin-dominant Northern Lights and Yeti OG genetics, and LilMissHS contributes Haze-forward sativa structure",
+    "therapeutic": "Stress relief, mild anxiety, fatigue, mood disorders, mild pain, lack of focus, depression",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, slight dizziness in low-tolerance users, potential for overstimulation in anxiety-prone individuals",
+    "aroma": "Opens with a bright burst of citrus and tropical fruit, layered beneath with a sharp alpine pine and a subtle warm spice finish that lingers on the exhale. The myrcene backbone adds an earthy musk that grounds the otherwise zesty and invigorating scent profile.",
+    "misc": "Frodo is a craft production strain developed under the Dizgo brand, known for small-batch, terpene-forward pre-rolls targeting the sativa-leaning hybrid market. At 18.2% THC, this falls in the moderate-to-solid range, making it approachable for intermediate consumers while still delivering meaningful euphoric and focused effects. Best suited for daytime or early afternoon use — ideal for creative work, social settings, or active outdoor activities where mental clarity and a light body buzz are desired.",
+    "mood_ratings": {
+      "wind_down": 6,
+      "deep_sleep": 4,
+      "anxiety_relief": 3,
+      "lift_up": 5,
+      "get_creative": 2,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 5,
+      "aphrodisiac": 3
+    }
+  },
+  "sw627866": {
+    "lineage": "Gelato 41 x Sherbert Bx1 (Seed Junky Genetics)",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, mood disorders, appetite stimulation, mild insomnia",
+    "negative": "Dry mouth, dry eyes, possible paranoia or anxiety at high doses, dizziness in low-tolerance users, potential couch-lock with heavy consumption",
+    "aroma": "Jealousy opens with a rich, creamy sweetness reminiscent of sherbet and vanilla ice cream, layered with subtle earthy undertones and a sharp, spicy kick of pepper and fresh pine on the exhale. The nose is indulgent and dessert-forward, with a complexity that reflects its elite Cookies-family lineage.",
+    "misc": "Jealousy was bred by Seed Junky Genetics and gained widespread recognition after being popularized by Cookies, quickly becoming a top-shelf staple known for its exceptional trichome production and bag appeal. Flower typically tests between 25–33% THC, and as a distillate at 77.6% THC, this Northpark vape is best suited for experienced consumers. It performs best as an evening or late-afternoon strain, offering a euphoric mental lift that gradually settles into full-body relaxation without being fully sedating — ideal for creative wind-down sessions or social settings.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 4,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 5
+    }
   }
 }
