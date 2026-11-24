@@ -953,24 +953,6 @@
       "deep_sleep": 4
     }
   },
-  "e019a1dcc69b": {
-    "lineage": "Chem Dog Funk x Auto Varin Lime Sour (Campfire Cannabis)",
-    "therapeutic": "Stress relief, muscle tension, anxiety, mild pain management, mood elevation, fatigue",
-    "negative": "Dry mouth, dry eyes, potential paranoia at high doses, couch-lock with heavy consumption, not recommended for low-tolerance users",
-    "aroma": "An intensely pungent, barnyard-funk nose hits first with deep diesel fuel and burned rubber, giving way to a sharp, sour citrus bite reminiscent of lime zest cutting through layers of damp earth and chemical gas. The overall bouquet is bold, complex, and unrelenting — a true nod to its Chemdog heritage.",
-    "misc": "Bred by Campfire Cannabis, Barnyard High Test pulls its gassy, chemically funky character from the legendary Chemdog lineage while the Auto Varin Lime Sour parentage contributes a tart citrus sharpness and likely contributes to its broad cannabinoid spectrum. At 22% THC, this is a potent option best reserved for experienced consumers, making it ideal as an evening or late-afternoon strain when deep relaxation and euphoric unbothering are the goal. Buds are expected to be dense and resinous with a frosty trichome coat, reflecting its high cannabinoid content and robust terpene profile dominated by the earthy-sedating Myrcene, mood-lifting Limonene, and spicy-peppery Caryophyllene.",
-    "mood_ratings": {
-      "wind_down": 8,
-      "anxiety_relief": 4,
-      "lift_up": 6,
-      "get_creative": 3,
-      "get_social": 5,
-      "pain_body": 5,
-      "just_happy": 5,
-      "aphrodisiac": 4,
-      "deep_sleep": 5
-    }
-  },
   "544546f4af9b": {
     "lineage": "Tropicana Cookies x Cherry Cookies (Tropicana Cookies = Girl Scout Cookies x Tangie; Cherry Cookies = Girl Scout Cookies x Cherry Pie) — developed within the Cookies Fam genetic ecosystem",
     "therapeutic": "Stress relief, mood elevation, mild anxiety management, fatigue, depression, creative blocks, mild pain relief",
@@ -5397,6 +5379,150 @@
       "pain_body": 5,
       "just_happy": 5,
       "aphrodisiac": 5
+    }
+  },
+  "sw387800": {
+    "lineage": "Chem Dog Funk x Auto Varin Lime Sour (Campfire Cannabis)",
+    "therapeutic": "Stress relief, muscle tension, anxiety, mild pain management, mood elevation, fatigue",
+    "negative": "Dry mouth, dry eyes, potential paranoia at high doses, couch-lock with heavy consumption, not recommended for low-tolerance users",
+    "aroma": "An intensely pungent, barnyard-funk nose hits first with deep diesel fuel and burned rubber, giving way to a sharp, sour citrus bite reminiscent of lime zest cutting through layers of damp earth and chemical gas. The overall bouquet is bold, complex, and unrelenting — a true nod to its Chemdog heritage.",
+    "misc": "Bred by Campfire Cannabis, Barnyard High Test pulls its gassy, chemically funky character from the legendary Chemdog lineage while the Auto Varin Lime Sour parentage contributes a tart citrus sharpness and likely contributes to its broad cannabinoid spectrum. At 22% THC, this is a potent option best reserved for experienced consumers, making it ideal as an evening or late-afternoon strain when deep relaxation and euphoric unbothering are the goal. Buds are expected to be dense and resinous with a frosty trichome coat, reflecting its high cannabinoid content and robust terpene profile dominated by the earthy-sedating Myrcene, mood-lifting Limonene, and spicy-peppery Caryophyllene.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "anxiety_relief": 4,
+      "lift_up": 6,
+      "get_creative": 3,
+      "get_social": 5,
+      "pain_body": 5,
+      "just_happy": 5,
+      "aphrodisiac": 4,
+      "deep_sleep": 5
+    }
+  },
+  "sw627900": {
+    "lineage": "Lemon Cherry Gelato × Blueberry Mimosa (Float / independent hybrid cross); Lemon Cherry Gelato itself descends from Sunset Sherbet × Girl Scout Cookies × Cherry lineage, while Blueberry Mimosa traces back to Purple Punch × Clementine",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, insomnia (early stages), mood elevation, appetite stimulation, muscle tension",
+    "negative": "Dry mouth, dry eyes, mild dizziness or lightheadedness at higher doses, potential couch-lock with heavy consumption, may cause drowsiness unsuitable for daytime productivity",
+    "aroma": "Papayamosa opens with a lush wave of ripe tropical fruit — think papaya, mango, and sun-warmed citrus — underpinned by a soft floral sweetness reminiscent of orange blossom and fresh blueberry. A subtle earthy pine note from the pinene terpenes grounds the bouquet, keeping it balanced rather than cloying.",
+    "misc": "Papayamosa is a Float-brand indica-leaning hybrid sitting at a moderate 18.1% THC, making it approachable for intermediate consumers while still delivering meaningful relaxation. Buds are typically dense with a frosty trichome coating, showcasing purple-tinged green hues inherited from its Blueberry Mimosa parentage alongside vivid orange pistils. Best enjoyed in the late afternoon or evening when its calming, body-soothing effects can be fully appreciated without interfering with daytime obligations.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 8,
+      "anxiety_relief": 5,
+      "lift_up": 4,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 4
+    }
+  },
+  "sw627911": {
+    "lineage": "Strawberries & Cream × Lemon Tree (Float / independent cross; Strawberries & Cream is a descendant of Cookies & Cream × Strawberry lines, while Lemon Tree is a classic Alien Labs / Seed Junky Genetics cross of Lemon Skunk × Sour Diesel)",
+    "therapeutic": "Stress relief, mild anxiety, mood elevation, fatigue, social anxiety, mild depression",
+    "negative": "Dry mouth, dry eyes, mild paranoia at higher doses, possible racing thoughts in anxiety-prone users due to sativa-leaning profile",
+    "aroma": "The nose opens with a vivid burst of ripe strawberry and fresh-squeezed lemon zest, followed by a smooth, creamy vanilla undertone that rounds out the citrus brightness into something that genuinely resembles strawberry lemonade. A faint peppery spice on the back end adds complexity and keeps the sweetness from becoming cloying.",
+    "misc": "Bred under the Float brand label, Mike's Strawberry Lemonade sits in the moderate-to-mid THC range at 17.7%, making it approachable for intermediate consumers while still delivering a noticeable effect. Buds typically present with bright green hues, amber pistils, and a generous trichome coating that reflects the creamy, resinous inheritance of the Strawberries & Cream parent. Best suited for daytime or early evening use — ideal for social gatherings, creative sessions, or outdoor activities where energy and euphoria are welcome.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 6,
+      "lift_up": 4,
+      "get_creative": 5,
+      "get_social": 4,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw627887": {
+    "lineage": "Grape Gas #10 × OGKB Blueberry Headband (Float / lineage traces to Grape Pie × Jet Fuel Gelato on the Grape Gas side, and OG Kush Breath × Blueberry Headband on the OGKB side)",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, insomnia, muscle tension, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, potential couch-lock at higher doses, mild paranoia in THC-sensitive users, sedation may impair productivity",
+    "aroma": "A heady rush of crushed dark grapes and ripe blueberries collides with a sharp, dank diesel undertone, finishing with a subtle floral sweetness courtesy of linalool and bisabolol. The gas note lingers on the exhale like fuel mixed with berry jam.",
+    "misc": "Glitter Bomb is a Float-branded indica-leaning hybrid sitting at a potent 24.1% THC, making it best suited for experienced consumers or those with higher tolerance. Buds are typically dense and resinous with deep purple hues, frosty trichome coverage, and orange pistils reflecting its grape and OG lineage. Best consumed in the evening or late afternoon for wind-down sessions; the calming-yet-giggly effect profile makes it a solid social-relaxation or pre-sleep choice.",
+    "mood_ratings": {
+      "wind_down": 9,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw627985": {
+    "lineage": "Peanut Butter Breath x Strawberry Pinecone (Campfire Cannabis selection); Peanut Butter Breath is itself a cross of Do-Si-Dos x Mendo Breath (ThugPug Genetics), while Strawberry Pinecone is a lesser-documented Pacific Northwest hybrid believed to carry Strawberry Cough and conifer-forward terp genetics",
+    "therapeutic": "Insomnia, chronic pain, muscle tension, stress and anxiety relief, appetite stimulation, mood elevation",
+    "negative": "Dry mouth, dry eyes, potential dizziness or mild paranoia at higher doses, strong sedative couch-lock effect — not recommended for daytime use or tasks requiring focus",
+    "aroma": "A rich, nutty and earthy base of roasted peanuts and doughy sweetness mingles with bright top notes of ripe strawberry and forest pine, finishing with a subtle herbal and floral exhale. The combination creates a surprisingly complex and inviting scent profile that feels both grounded and subtly fruity.",
+    "misc": "At 23.7% THC this is a potent indica-leaning hybrid best reserved for evening or nighttime use, particularly suited for users winding down after a long day or struggling with sleep onset. Buds typically present dense, resinous structures with deep green and purple hues, coated in amber trichomes reflecting its rich genetic heritage. Campfire Cannabis positions this as a craft pre-roll offering, and its reported effects profile — blending sedation with an initial social uplift — makes it a strong choice for experienced consumers seeking a smooth transition from relaxation into sleep.",
+    "mood_ratings": {
+      "wind_down": 5,
+      "deep_sleep": 4,
+      "anxiety_relief": 4,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 4,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
+  },
+  "sw623237": {
+    "lineage": "Infused edible product — no specific strain lineage applicable. OMA 'Lemon' gummies are a hybrid-formulated cannabis extract product designed for consistent, dose-controlled consumption.",
+    "therapeutic": "Stress relief, mild to moderate pain management, anxiety reduction, sleep aid (at higher doses), appetite stimulation, mood elevation",
+    "negative": "Delayed onset (30–90 minutes) can lead to overconsumption — start low and wait; dry mouth, drowsiness, heightened anxiety or paranoia in THC-sensitive users, impaired coordination, couch-lock at multiple-gummy doses",
+    "aroma": "These lemon-flavored gummies deliver a bright, zesty citrus aroma reminiscent of fresh lemon zest and tangy lemonade, with a sweet sugary finish typical of pectin or gelatin-based confections.",
+    "misc": "Each gummy contains a precise 10mg THC dose, making this package ideal for both beginners (start with half a gummy or one full gummy) and experienced consumers who prefer controlled, predictable dosing. OMA is a cannabis edibles brand focused on consistent infusion and approachable flavor profiles. Best consumed on a full stomach to moderate intensity and onset; effects typically last 3–6 hours depending on individual metabolism and tolerance.",
+    "mood_ratings": {
+      "wind_down": 4,
+      "deep_sleep": 3,
+      "anxiety_relief": 4,
+      "lift_up": 4,
+      "get_creative": 3,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 4,
+      "aphrodisiac": 3
+    }
+  },
+  "sw627873": {
+    "lineage": "MAC1 (Miracle Alien Cookies) × Grape Stomper BX1 — MAC1 is a Capulator-bred cross of Alien Cookies F2 × (Colombian × Starfighter); Grape Stomper BX1 is a Gage Green Genetics phenotype derived from Chemdawg Sour Diesel × Purple Elephant backcrossed",
+    "therapeutic": "Stress relief, anxiety reduction, mild depression, creative blocks, fatigue, mild pain, appetite stimulation",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia or anxiety at high doses due to elevated THC (78.3%), dizziness for low-tolerance users, overconsumption risk with live rosin concentrate format",
+    "aroma": "An intoxicating blend of ripe purple grape and tangy citrus peel opens the nose, underpinned by a creamy bubblegum sweetness and a lingering earthy-skunky musk that grounds the whole bouquet. Subtle floral and piney notes from linalool and pinene weave through the finish, adding complexity and a faint herbal freshness.",
+    "misc": "MAC Stomper is a craft-tier hybrid pairing Capulator's legendary MAC1 — widely recognized for its balanced, resin-drenched genetics — with Grape Stomper BX1, lending rich grape and candy fuel terpene expression. At 78.3% THC in live rosin form, this is a potent concentrate best suited for experienced consumers seeking an uplifting yet relaxed daytime-to-early-evening experience. Float's live rosin format preserves the full terpene spectrum solventlessly, delivering true-to-flower flavor that highlights the strain's grape bubblegum and citrus-forward profile; new users should start with micro-doses (1–2 second pulls) and titrate slowly.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 3,
+      "get_creative": 5,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw627989": {
+    "lineage": "Watermelon Zkittlez x Strawberry Cough (independent breeders, exact origin disputed; popularized in the Pacific Northwest legal market)",
+    "therapeutic": "Stress relief, mild anxiety reduction, mood elevation, fatigue, mild pain management",
+    "negative": "Dry mouth, dry eyes, possible anxiety or paranoia at high doses due to 87.7% THC distillate potency, dizziness for low-tolerance users",
+    "aroma": "Tiger's Blood bursts with a luscious wave of sweet watermelon, ripe strawberry, and tropical coconut, evoking the classic summertime snow cone flavor it's named after. Underneath the fruit-forward sweetness lies a faint floral and candy-like undertone that keeps the profile bright and playful.",
+    "misc": "Tiger's Blood is a dessert-forward hybrid that leans slightly sativa in its effects, delivering an uplifting, euphoric head high followed by a gentle body relaxation — making it well-suited for daytime or early evening use. As a high-potency distillate from Stargaze, the terpene profile has likely been reintroduced post-extraction to preserve flavor fidelity, so the experience may feel cleaner and more refined than a raw live resin. New and low-tolerance consumers should approach cautiously given the near-88% THC concentration, taking one to two second pulls and waiting several minutes before redosing.",
+    "mood_ratings": {
+      "wind_down": 3,
+      "deep_sleep": 2,
+      "anxiety_relief": 3,
+      "lift_up": 3,
+      "get_creative": 3,
+      "get_social": 3,
+      "pain_body": 3,
+      "just_happy": 3,
+      "aphrodisiac": 3
     }
   }
 }
