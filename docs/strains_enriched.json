@@ -5542,5 +5542,41 @@
       "just_happy": 3,
       "aphrodisiac": 2
     }
+  },
+  "sw621028": {
+    "lineage": "Super Sherbert x Blockberry (Redwood County Weed Co) — Super Sherbert is derived from Sherbert (Girl Scout Cookies x Pink Panties) and Blockberry is a berry-forward hybrid believed to cross Blackberry Kush with an OG-based parent",
+    "therapeutic": "Stress relief, anxiety reduction, mild pain management, mood elevation, creative blocks, mild insomnia (onset), muscle tension",
+    "negative": "Dry mouth, dry eyes, possible mild paranoia at higher doses, slight sedation that may limit productivity in sensitive users, light dizziness for low-tolerance consumers",
+    "aroma": "Block Party opens with a lush wave of tropical citrus and ripe mixed berries, underscored by a creamy sherbert sweetness that lingers on the nose. Earthy pine and subtle floral notes from the linalool weave through the backend, grounding the aroma with a fresh, garden-like depth.",
+    "misc": "Bred by Redwood County Weed Co, Block Party is a well-balanced hybrid that likely falls in the 20–25% THC range based on its parent genetics, though specific lab data was not provided. Buds are expected to present dense, chunky structure with deep green hues, purple undertones, and a heavy trichome frost reflective of its Sherbert lineage. Best suited for late afternoon or early evening use when creativity and relaxation are equally desired — a great social or wind-down strain for experienced consumers looking for euphoric balance without full sedation.",
+    "mood_ratings": {
+      "wind_down": 8,
+      "deep_sleep": 8,
+      "anxiety_relief": 6,
+      "lift_up": 4,
+      "get_creative": 2,
+      "get_social": 3,
+      "pain_body": 5,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
+  },
+  "sw623754": {
+    "lineage": "Purple Thai x Unknown Hybrid (Campfire Cannabis) — Purple Thai itself is a classic sativa landrace-influenced strain with roots tracing back to Thai landrace genetics crossed with Oaxacan or Afghani lines, celebrated for its exotic purple coloration and energetic cerebral effects",
+    "therapeutic": "Stress relief, depression, fatigue, mild anxiety, creative blocks, ADD/ADHD symptom management, appetite stimulation, mild pain relief",
+    "negative": "Dry mouth, dry eyes, possible paranoia or racing thoughts at high doses, mild dizziness in low-tolerance users, overconsumption may cause restlessness or anxiety due to sativa-dominant profile",
+    "aroma": "Bangkok Purple opens with a burst of sweet tropical citrus and ripe blueberries, layered beneath a complex floral spice reminiscent of lavender and fresh cracked pepper. Deeper notes of earthy pine and a faint herbal sweetness round out an intoxicating and exotic bouquet that reflects its Southeast Asian landrace heritage.",
+    "misc": "Developed by Campfire Cannabis, Bangkok Purple is a sativa-leaning hybrid likely falling in the 20–26% THC range based on its terpene density and lineage profile. Buds present as dense olive-green nugs adorned with deep purple undertones, vivid orange pistils, and a heavy frosting of silver trichomes that signal strong potency. Best consumed in the morning or early afternoon, this strain is ideal for creative professionals, outdoor enthusiasts, or anyone seeking uplifted focus without the edge of an aggressive sativa.",
+    "mood_ratings": {
+      "wind_down": 7,
+      "deep_sleep": 6,
+      "anxiety_relief": 5,
+      "lift_up": 5,
+      "get_creative": 4,
+      "get_social": 4,
+      "pain_body": 4,
+      "just_happy": 6,
+      "aphrodisiac": 5
+    }
   }
 }
